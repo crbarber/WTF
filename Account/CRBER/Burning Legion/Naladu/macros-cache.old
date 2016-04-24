@@ -1,0 +1,82 @@
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,nodead][] Riptide
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,nodead][] Healing Surge
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,nodead][] Chain Heal
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,nodead][] Healing Wave
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Etheralus, the Eternal Reward
+/use Tharbek's Lucky Pebble
+/use Intuition's Gift
+/use Etheralus, the Eternal Reward
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Healing Tide Totem
+/use Tharbek's Lucky Pebble
+/use Intuition's Gift
+/cast Healing Tide Totem
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/poke Jonoki-Maiev
+/lick Jonoki-Maiev
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,nodead][] Earth Shield
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,nodead][] Cleanse Spirit
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip Ascendance
+/cast Elemental Mastery
+/use Intuition's Gift
+/cast Ascendance
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,nodead][] Unleash Life
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,exists] Purify Spirit; Purify Spirit
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip Ascendance
+/use Nithramus, the All-Seer
+/cast Ascendance
+/cast Elemental Mastery
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Maalus, the Blood Drinker
+/use Mirror of the Blademaster
+/use Maalus, the Blood Drinker
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount()
+/cast [flyable] Grove Warden
+/cast Armored Razorback
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] wind shear
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Nal[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

@@ -1,0 +1,17 @@
+
+IskarAssistDB = {
+	["profileKeys"] = {
+		["Exige - Burning Legion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["MainPanel"] = {
+				["position"] = {
+					["y"] = 12.9998168945313,
+					["x"] = 418.000366210938,
+				},
+				["IsLocked"] = false,
+			},
+		},
+	},
+}

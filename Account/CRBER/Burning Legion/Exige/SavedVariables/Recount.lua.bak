@@ -1,0 +1,33 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Exige"] = {
+			["Fights"] = {
+			},
+			["type"] = "Self",
+			["Name"] = "Exige",
+			["UnitLockout"] = 41921.912,
+			["level"] = 93,
+			["Owner"] = false,
+			["enClass"] = "MONK",
+			["LastFightIn"] = 0,
+		},
+		["Bulal"] = {
+			["Fights"] = {
+			},
+			["type"] = "Grouped",
+			["Name"] = "Bulal",
+			["UnitLockout"] = 41931.939,
+			["level"] = 93,
+			["Owner"] = false,
+			["enClass"] = "DRUID",
+			["LastFightIn"] = 0,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

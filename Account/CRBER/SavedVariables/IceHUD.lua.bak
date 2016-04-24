@@ -1,0 +1,152 @@
+
+IceCoreDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Exige - Burning Legion"] = "Default",
+	},
+	["global"] = {
+		["lastRunVersion"] = 20150822215514,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["TargetCast"] = {
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+				},
+				["PetHealth"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["enabled"] = false,
+				},
+				["PlayerHealth"] = {
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+				},
+				["ComboPoints"] = {
+					["enabled"] = false,
+				},
+				["PlayerMana"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+				},
+				["TargetMana"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+				},
+				["PlayerAlternatePower"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["enabled"] = false,
+				},
+				["TargetInfo"] = {
+					["debuffSizeFixup"] = true,
+					["myTagVersion"] = 3,
+					["enabled"] = false,
+					["updateAurasIntoTable"] = true,
+				},
+				["TargetAbsorb"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["enabled"] = false,
+				},
+				["SunderCount"] = {
+				},
+				["CastBar"] = {
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+					["enabled"] = false,
+				},
+				["TargetOfTarget"] = {
+					["enabled"] = false,
+				},
+				["PlayerAbsorb"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+				},
+				["PlayerInvuln"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+				},
+				["FocusHealth"] = {
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+				},
+				["TargetHealth"] = {
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+				},
+				["MonkMana"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["enabled"] = false,
+				},
+				["FocusAbsorb"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+				},
+				["PetMana"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["enabled"] = false,
+				},
+				["PlayerCC"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+				},
+				["LacerateCount"] = {
+				},
+				["Stagger"] = {
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+				},
+				["MaelstromCount"] = {
+				},
+				["ComboPointsBar"] = {
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["myTagVersion"] = 3,
+				},
+				["Resolve"] = {
+					["myTagVersion"] = 3,
+					["updatedInverseExpand"] = true,
+					["updatedReverseInverse"] = true,
+					["enabled"] = true,
+				},
+				["HarmonyPower"] = {
+					["enabled"] = false,
+				},
+			},
+			["updatedOocNotFull"] = true,
+			["colors"] = {
+				["ScaledManaColor"] = {
+					["r"] = 1,
+				},
+				["ScaledHealthColor"] = {
+					["g"] = 0,
+					["r"] = 1,
+				},
+			},
+		},
+	},
+}

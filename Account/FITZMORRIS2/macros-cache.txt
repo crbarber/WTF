@@ -1,0 +1,12 @@
+VER 3 000000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip Armored Razzashi Raptor
+/castrandom [flyable] Drake of the West Wind, Bronze Drake, Dark Phoenix, Ebon Gryphon;
+/castrandom Swift White Mechanostrider, Armored Razzashi Raptor, Black War Bear, Black War Tiger, Raven Lord
+END
+VER 3 0000000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] tricks of the trade
+END
+VER 3 000000000000000B "/click " "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1
+END

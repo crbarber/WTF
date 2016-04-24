@@ -1,0 +1,7450 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Sicklymedic"] = {
+			["DeathLogs"] = {
+				{
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						true, -- [7]
+						true, -- [8]
+						true, -- [9]
+						false, -- [10]
+						false, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						false, -- [20]
+						false, -- [21]
+						true, -- [22]
+						true, -- [23]
+						false, -- [24]
+						true, -- [25]
+						false, -- [26]
+						true, -- [27]
+						true, -- [28]
+						true, -- [29]
+						false, -- [30]
+						true, -- [31]
+						true, -- [32]
+						true, -- [33]
+						true, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						true, -- [38]
+						true, -- [39]
+						true, -- [40]
+						true, -- [41]
+						false, -- [42]
+						true, -- [43]
+						false, -- [44]
+						true, -- [45]
+						false, -- [46]
+						false, -- [47]
+						false, -- [48]
+						true, -- [49]
+						true, -- [50]
+					},
+					["Messages"] = {
+						"Ashley-Sargeras Censure (DoT) Sicklymedic Tick -1902 (Holy)", -- [1]
+						"Sicklymedic Enraged Regeneration Sicklymedic Tick +14137", -- [2]
+						"Ashley-Sargeras Templar's Verdict Sicklymedic Immune (Physical)", -- [3]
+						"Ashley-Sargeras Melee Sicklymedic Immune (1)", -- [4]
+						"Sicklymedic Enraged Regeneration Sicklymedic Tick +14137", -- [5]
+						"Outstanding-Lightninghoof Flash of Light Sicklymedic Hit +18819", -- [6]
+						"Sicklymedic Enraged Regeneration Sicklymedic Tick +14137", -- [7]
+						"Ashley-Sargeras Judgment Sicklymedic Hit -10188 (Holy)", -- [8]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1295 (Holy)", -- [9]
+						"Sicklymedic Rend (DoT) Ashley-Sargeras Tick -6058 (Physical)", -- [10]
+						"Sicklymedic Rend Ashley-Sargeras Hit -13950 (Physical)", -- [11]
+						"Ashley-Sargeras Censure (DoT) Sicklymedic Tick -1902 (Holy)", -- [12]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1370 (Holy)", -- [13]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1373 (Holy)", -- [14]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1961 (Holy)", -- [15]
+						"Ashley-Sargeras Divine Storm Sicklymedic Hit -18923 (Holy)", -- [16]
+						"Ashley-Sargeras Hand of Light Sicklymedic Hit -7275 (Holy)", -- [17]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1894 (Holy)", -- [18]
+						"Ashley-Sargeras Censure (DoT) Sicklymedic Crit -4322 (Holy)", -- [19]
+						"Sicklymedic Melee Ashley-Sargeras Crit -6686 (Physical)", -- [20]
+						"Sicklymedic Mortal Strike Ashley-Sargeras Hit -20073 (Physical)", -- [21]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1942 (Holy)", -- [22]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Multistrike -582 (Holy)", -- [23]
+						"Sicklymedic Hamstring Ashley-Sargeras Crit -293 (Physical)", -- [24]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1804 (Holy)", -- [25]
+						"Sicklymedic Hamstring Ashley-Sargeras Hit -195 (Physical)", -- [26]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1805 (Holy)", -- [27]
+						"Ashley-Sargeras Censure (DoT) Sicklymedic Tick -2401 (Holy)", -- [28]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1339 (Holy)", -- [29]
+						"Sicklymedic Melee Ashley-Sargeras Hit -4806 (Physical)", -- [30]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1412 (Holy)", -- [31]
+						"Ashley-Sargeras Divine Storm Sicklymedic Hit -14445 (Holy)", -- [32]
+						"Ashley-Sargeras Hand of Light Sicklymedic Hit -5553 (Holy)", -- [33]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1472 (Holy)", -- [34]
+						"Ashley-Sargeras Divine Storm Sicklymedic Multistrike -4334 (Holy)", -- [35]
+						"Ashley-Sargeras Hand of Light Sicklymedic Hit -1666 (Holy)", -- [36]
+						"Ashley-Sargeras Melee Sicklymedic Hit -6712 (Physical)", -- [37]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1223 (Holy)", -- [38]
+						"Ashley-Sargeras Crusader Strike Sicklymedic Hit -8262 (Physical)", -- [39]
+						"Ashley-Sargeras Hand of Light Sicklymedic Hit -3176 (Holy)", -- [40]
+						"Ashley-Sargeras Seal of Righteousness Sicklymedic Crit -1862 (Holy)", -- [41]
+						"Sicklymedic Whirlwind Ashley-Sargeras Hit -6337 (Physical)", -- [42]
+						"Ashley-Sargeras Censure (DoT) Sicklymedic Tick -1895 (Holy)", -- [43]
+						"Sicklymedic Whirlwind Ashley-Sargeras Multistrike (Crit) -3042 (Physical)", -- [44]
+						"Ashley-Sargeras Exorcism Sicklymedic Crit -15514 (Holy)", -- [45]
+						"Sicklymedic Melee Ashley-Sargeras Hit -4430 (Physical)", -- [46]
+						"Sicklymedic Storm Bolt Ashley-Sargeras Hit -2676 (Physical)", -- [47]
+						"Sicklymedic Mortal Strike Ashley-Sargeras Crit -25707 (Physical)", -- [48]
+						"Ashley-Sargeras Hammer of Wrath Sicklymedic Hit -18708 (Holy)", -- [49]
+						"Sicklymedic dies.", -- [50]
+					},
+					["DeathAt"] = 138929.14,
+					["HealthNum"] = {
+						30.8756259109078, -- [1]
+						34.2756268729227, -- [2]
+						34.2756268729227, -- [3]
+						34.2756268729227, -- [4]
+						37.6756278349375, -- [5]
+						42.2016671717245, -- [6]
+						45.6016681337393, -- [7]
+						43.1514163263539, -- [8]
+						42.8399640206448, -- [9]
+						42.8399640206448, -- [10]
+						42.8399640206448, -- [11]
+						42.3825259623756, -- [12]
+						42.0530358783436, -- [13]
+						41.7228242831787, -- [14]
+						41.2511965059621, -- [15]
+						36.700144783234, -- [16]
+						34.9504802859108, -- [17]
+						34.4949662573294, -- [18]
+						33.4555092185072, -- [19]
+						33.4555092185072, -- [20]
+						33.4555092185072, -- [21]
+						32.9884510117991, -- [22]
+						32.8484778520133, -- [23]
+						32.8484778520133, -- [24]
+						32.4146091574193, -- [25]
+						32.4146091574193, -- [26]
+						21.7775749529815, -- [27]
+						21.1135081314305, -- [28]
+						20.7431684920898, -- [29]
+						20.7431684920898, -- [30]
+						20.3526385662131, -- [31]
+						16.3574510454696, -- [32]
+						14.8216063723863, -- [33]
+						14.4144816904525, -- [34]
+						13.2157871445956, -- [35]
+						12.7550060847439, -- [36]
+						12.7550060847439, -- [37]
+						12.416749640447, -- [38]
+						8.27525168713353, -- [39]
+						7.39683593317845, -- [40]
+						6.88184533687355, -- [41]
+						6.88184533687355, -- [42]
+						6.35772762473725, -- [43]
+						6.35772762473725, -- [44]
+						2.06687686691006, -- [45]
+						2.06687686691006, -- [46]
+						2.06687686691006, -- [47]
+						2.06687686691006, -- [48]
+						0.000276579267618099, -- [49]
+						0, -- [50]
+					},
+					["MessageTimes"] = {
+						-14.8610000000044, -- [1]
+						-14.6089999999967, -- [2]
+						-14.5160000000033, -- [3]
+						-14.4049999999988, -- [4]
+						-13.6579999999958, -- [5]
+						-12.7429999999877, -- [6]
+						-12.6590000000142, -- [7]
+						-12.6490000000049, -- [8]
+						-12.1499999999942, -- [9]
+						-12.0230000000156, -- [10]
+						-12.0230000000156, -- [11]
+						-11.8679999999877, -- [12]
+						-11.5460000000021, -- [13]
+						-10.4660000000149, -- [14]
+						-9.89699999999721, -- [15]
+						-9.55300000001444, -- [16]
+						-9.52799999999115, -- [17]
+						-9.52799999999115, -- [18]
+						-8.85300000000279, -- [19]
+						-8.66099999999278, -- [20]
+						-8.57999999998719, -- [21]
+						-8.52400000000489, -- [22]
+						-8.19399999998859, -- [23]
+						-7.79999999998836, -- [24]
+						-7.64499999998952, -- [25]
+						-6.7960000000021, -- [26]
+						-6.19599999999628, -- [27]
+						-5.85099999999511, -- [28]
+						-5.41099999999278, -- [29]
+						-5.32500000001164, -- [30]
+						-5.25099999998929, -- [31]
+						-4.28800000000047, -- [32]
+						-4.26699999999255, -- [33]
+						-4.26699999999255, -- [34]
+						-3.95499999998719, -- [35]
+						-3.94399999998859, -- [36]
+						-3.49799999999232, -- [37]
+						-3.47800000000279, -- [38]
+						-3.19099999999162, -- [39]
+						-3.15499999999884, -- [40]
+						-3.15499999999884, -- [41]
+						-3.01900000000023, -- [42]
+						-2.86699999999837, -- [43]
+						-2.66000000000349, -- [44]
+						-2.16899999999441, -- [45]
+						-1.98500000001513, -- [46]
+						-1.56100000001607, -- [47]
+						-0.228999999992084, -- [48]
+						0, -- [49]
+						0, -- [50]
+					},
+					["KilledBy"] = "Ashley-Sargeras",
+					["Health"] = {
+						"128379 (30%)", -- [1]
+						"142516 (34%)", -- [2]
+						"142516 (34%)", -- [3]
+						"142516 (34%)", -- [4]
+						"156653 (37%)", -- [5]
+						"175472 (42%)", -- [6]
+						"189609 (45%)", -- [7]
+						"179421 (43%)", -- [8]
+						"178126 (42%)", -- [9]
+						"178126 (42%)", -- [10]
+						"178126 (42%)", -- [11]
+						"176224 (42%)", -- [12]
+						"174854 (42%)", -- [13]
+						"173481 (41%)", -- [14]
+						"171520 (41%)", -- [15]
+						"152597 (36%)", -- [16]
+						"145322 (34%)", -- [17]
+						"143428 (34%)", -- [18]
+						"139106 (33%)", -- [19]
+						"139106 (33%)", -- [20]
+						"139106 (33%)", -- [21]
+						"137164 (32%)", -- [22]
+						"136582 (32%)", -- [23]
+						"136582 (32%)", -- [24]
+						"134778 (32%)", -- [25]
+						"134778 (32%)", -- [26]
+						"78739 (21%)", -- [27]
+						"76338 (21%)", -- [28]
+						"74999 (20%)", -- [29]
+						"74999 (20%)", -- [30]
+						"73587 (20%)", -- [31]
+						"59142 (16%)", -- [32]
+						"53589 (14%)", -- [33]
+						"52117 (14%)", -- [34]
+						"47783 (13%)", -- [35]
+						"46117 (12%)", -- [36]
+						"46117 (12%)", -- [37]
+						"44894 (12%)", -- [38]
+						"29920 (8%)", -- [39]
+						"26744 (7%)", -- [40]
+						"24882 (6%)", -- [41]
+						"24882 (6%)", -- [42]
+						"22987 (6%)", -- [43]
+						"22987 (6%)", -- [44]
+						"7473 (2%)", -- [45]
+						"7473 (2%)", -- [46]
+						"7473 (2%)", -- [47]
+						"7473 (2%)", -- [48]
+						"1 (0%)", -- [49]
+						"0 (0%)", -- [50]
+					},
+					["EventNum"] = {
+						0.457438058269239, -- [1]
+						3.40000096201484, -- [2]
+						0, -- [3]
+						0, -- [4]
+						3.40000096201484, -- [5]
+						4.52603933678697, -- [6]
+						3.40000096201484, -- [7]
+						2.45025180738539, -- [8]
+						0.311452305709077, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0.457438058269239, -- [12]
+						0.329490084031997, -- [13]
+						0.330211595164913, -- [14]
+						0.471627777216602, -- [15]
+						4.55105172272808, -- [16]
+						1.74966449732319, -- [17]
+						0.455514028581461, -- [18]
+						1.03945703882211, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0.46705820670813, -- [22]
+						0.139973159785856, -- [23]
+						0, -- [24]
+						0.433868694593958, -- [25]
+						0, -- [26]
+						0.499225578050669, -- [27]
+						0.664066821551057, -- [28]
+						0.370339639340635, -- [29]
+						0, -- [30]
+						0.390529925876756, -- [31]
+						3.99518752074345, -- [32]
+						1.53584467308331, -- [33]
+						0.407124681933842, -- [34]
+						1.19869454585684, -- [35]
+						0.460781059851754, -- [36]
+						1.85640004425268, -- [37]
+						0.338256444296936, -- [38]
+						2.28509790906074, -- [39]
+						0.878415753955084, -- [40]
+						0.514990596304901, -- [41]
+						0, -- [42]
+						0.524117712136298, -- [43]
+						0, -- [44]
+						4.29085075782719, -- [45]
+						0, -- [46]
+						0, -- [47]
+						0, -- [48]
+						5.1742449385994, -- [49]
+						0, -- [50]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"HEAL", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"HEAL", -- [5]
+						"HEAL", -- [6]
+						"HEAL", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"DAMAGE", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"MISC", -- [50]
+					},
+				}, -- [1]
+			},
+			["TimeLast"] = {
+				["TimeHeal"] = 138914.144,
+				["OVERALL"] = 138927.143,
+				["DamageTaken"] = 138927.143,
+				["DeathCount"] = 138927.143,
+				["Healing"] = 138914.144,
+				["RageGain"] = 138927.143,
+				["HOT_Time"] = 138914.144,
+				["TimeDamage"] = 138927.143,
+				["HealingTaken"] = 138914.144,
+				["ActiveTime"] = 138927.143,
+				["DOT_Time"] = 138915.14,
+				["Damage"] = 138927.143,
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"MISC", -- [40]
+				"DAMAGE", -- [41]
+				"HEAL", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"HEAL", -- [45]
+				"HEAL", -- [46]
+				"HEAL", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					3.79, -- [1]
+				},
+				["Healing"] = {
+					101418, -- [1]
+				},
+				["DamageTaken"] = {
+					538197, -- [1]
+				},
+				["DeathCount"] = {
+					1, -- [1]
+				},
+				["HealingTaken"] = {
+					165402, -- [1]
+				},
+				["HOT_Time"] = {
+					15, -- [1]
+				},
+				["TimeDamage"] = {
+					39.83, -- [1]
+				},
+				["RageGain"] = {
+					360, -- [1]
+				},
+				["ActiveTime"] = {
+					43.62, -- [1]
+				},
+				["DOT_Time"] = {
+					21, -- [1]
+				},
+				["Damage"] = {
+					277291, -- [1]
+				},
+			},
+			["enClass"] = "WARRIOR",
+			["unit"] = "Sicklymedic",
+			["level"] = 100,
+			["LastDamageAbility"] = "Hammer of Wrath",
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+				nil, -- [1]
+				0.457438058269239, -- [2]
+				0.329490084031997, -- [3]
+				0.330211595164913, -- [4]
+				0.471627777216602, -- [5]
+				4.55105172272808, -- [6]
+				1.74966449732319, -- [7]
+				0.455514028581461, -- [8]
+				1.03945703882211, -- [9]
+				nil, -- [10]
+				nil, -- [11]
+				0.46705820670813, -- [12]
+				0.139973159785856, -- [13]
+				[15] = 0.433868694593958,
+				[17] = 0.499225578050669,
+				[18] = 0.664066821551057,
+				[19] = 0.370339639340635,
+				[21] = 0.390529925876756,
+				[22] = 3.99518752074345,
+				[23] = 1.53584467308331,
+				[24] = 0.407124681933842,
+				[25] = 1.19869454585684,
+				[26] = 0.460781059851754,
+				[27] = 1.85640004425268,
+				[28] = 0.338256444296936,
+				[29] = 2.28509790906074,
+				[30] = 0.878415753955084,
+				[31] = 0.514990596304901,
+				[33] = 0.524117712136298,
+				[35] = 4.29085075782719,
+				[39] = 5.1742449385994,
+				[41] = 0.457438058269239,
+				[42] = 3.40000096201484,
+				[45] = 3.40000096201484,
+				[46] = 4.52603933678697,
+				[47] = 3.40000096201484,
+				[48] = 2.45025180738539,
+				[49] = 0.311452305709077,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 1,
+			["LastDamageTaken"] = 18708,
+			["LastAbility"] = 138927.257,
+			["Owner"] = false,
+			["LastEventHealth"] = {
+				"178126 (42%)", -- [1]
+				"176224 (42%)", -- [2]
+				"174854 (42%)", -- [3]
+				"173481 (41%)", -- [4]
+				"171520 (41%)", -- [5]
+				"152597 (36%)", -- [6]
+				"145322 (34%)", -- [7]
+				"143428 (34%)", -- [8]
+				"139106 (33%)", -- [9]
+				"139106 (33%)", -- [10]
+				"139106 (33%)", -- [11]
+				"137164 (32%)", -- [12]
+				"136582 (32%)", -- [13]
+				"136582 (32%)", -- [14]
+				"134778 (32%)", -- [15]
+				"134778 (32%)", -- [16]
+				"78739 (21%)", -- [17]
+				"76338 (21%)", -- [18]
+				"74999 (20%)", -- [19]
+				"74999 (20%)", -- [20]
+				"73587 (20%)", -- [21]
+				"59142 (16%)", -- [22]
+				"53589 (14%)", -- [23]
+				"52117 (14%)", -- [24]
+				"47783 (13%)", -- [25]
+				"46117 (12%)", -- [26]
+				"46117 (12%)", -- [27]
+				"44894 (12%)", -- [28]
+				"29920 (8%)", -- [29]
+				"26744 (7%)", -- [30]
+				"24882 (6%)", -- [31]
+				"24882 (6%)", -- [32]
+				"22987 (6%)", -- [33]
+				"22987 (6%)", -- [34]
+				"7473 (2%)", -- [35]
+				"7473 (2%)", -- [36]
+				"7473 (2%)", -- [37]
+				"7473 (2%)", -- [38]
+				"1 (0%)", -- [39]
+				"0 (0%)", -- [40]
+				"128379 (30%)", -- [41]
+				"142516 (34%)", -- [42]
+				"142516 (34%)", -- [43]
+				"142516 (34%)", -- [44]
+				"156653 (37%)", -- [45]
+				"175472 (42%)", -- [46]
+				"189609 (45%)", -- [47]
+				"179421 (43%)", -- [48]
+				"178126 (42%)", -- [49]
+				"178126 (42%)", -- [50]
+			},
+			["NextEventNum"] = 41,
+			["LastEventHealthNum"] = {
+				42.8399640206448, -- [1]
+				42.3825259623756, -- [2]
+				42.0530358783436, -- [3]
+				41.7228242831787, -- [4]
+				41.2511965059621, -- [5]
+				36.700144783234, -- [6]
+				34.9504802859108, -- [7]
+				34.4949662573294, -- [8]
+				33.4555092185072, -- [9]
+				33.4555092185072, -- [10]
+				33.4555092185072, -- [11]
+				32.9884510117991, -- [12]
+				32.8484778520133, -- [13]
+				32.8484778520133, -- [14]
+				32.4146091574193, -- [15]
+				32.4146091574193, -- [16]
+				21.7775749529815, -- [17]
+				21.1135081314305, -- [18]
+				20.7431684920898, -- [19]
+				20.7431684920898, -- [20]
+				20.3526385662131, -- [21]
+				16.3574510454696, -- [22]
+				14.8216063723863, -- [23]
+				14.4144816904525, -- [24]
+				13.2157871445956, -- [25]
+				12.7550060847439, -- [26]
+				12.7550060847439, -- [27]
+				12.416749640447, -- [28]
+				8.27525168713353, -- [29]
+				7.39683593317845, -- [30]
+				6.88184533687355, -- [31]
+				6.88184533687355, -- [32]
+				6.35772762473725, -- [33]
+				6.35772762473725, -- [34]
+				2.06687686691006, -- [35]
+				2.06687686691006, -- [36]
+				2.06687686691006, -- [37]
+				2.06687686691006, -- [38]
+				0.000276579267618099, -- [39]
+				0, -- [40]
+				30.8756259109078, -- [41]
+				34.2756268729227, -- [42]
+				34.2756268729227, -- [43]
+				34.2756268729227, -- [44]
+				37.6756278349375, -- [45]
+				42.2016671717245, -- [46]
+				45.6016681337393, -- [47]
+				43.1514163263539, -- [48]
+				42.8399640206448, -- [49]
+				42.8399640206448, -- [50]
+			},
+			["LastEvents"] = {
+				"Sicklymedic Rend Ashley-Sargeras Hit -13950 (Physical)", -- [1]
+				"Ashley-Sargeras Censure (DoT) Sicklymedic Tick -1902 (Holy)", -- [2]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1370 (Holy)", -- [3]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1373 (Holy)", -- [4]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1961 (Holy)", -- [5]
+				"Ashley-Sargeras Divine Storm Sicklymedic Hit -18923 (Holy)", -- [6]
+				"Ashley-Sargeras Hand of Light Sicklymedic Hit -7275 (Holy)", -- [7]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1894 (Holy)", -- [8]
+				"Ashley-Sargeras Censure (DoT) Sicklymedic Crit -4322 (Holy)", -- [9]
+				"Sicklymedic Melee Ashley-Sargeras Crit -6686 (Physical)", -- [10]
+				"Sicklymedic Mortal Strike Ashley-Sargeras Hit -20073 (Physical)", -- [11]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1942 (Holy)", -- [12]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Multistrike -582 (Holy)", -- [13]
+				"Sicklymedic Hamstring Ashley-Sargeras Crit -293 (Physical)", -- [14]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1804 (Holy)", -- [15]
+				"Sicklymedic Hamstring Ashley-Sargeras Hit -195 (Physical)", -- [16]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1805 (Holy)", -- [17]
+				"Ashley-Sargeras Censure (DoT) Sicklymedic Tick -2401 (Holy)", -- [18]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1339 (Holy)", -- [19]
+				"Sicklymedic Melee Ashley-Sargeras Hit -4806 (Physical)", -- [20]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1412 (Holy)", -- [21]
+				"Ashley-Sargeras Divine Storm Sicklymedic Hit -14445 (Holy)", -- [22]
+				"Ashley-Sargeras Hand of Light Sicklymedic Hit -5553 (Holy)", -- [23]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1472 (Holy)", -- [24]
+				"Ashley-Sargeras Divine Storm Sicklymedic Multistrike -4334 (Holy)", -- [25]
+				"Ashley-Sargeras Hand of Light Sicklymedic Hit -1666 (Holy)", -- [26]
+				"Ashley-Sargeras Melee Sicklymedic Hit -6712 (Physical)", -- [27]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1223 (Holy)", -- [28]
+				"Ashley-Sargeras Crusader Strike Sicklymedic Hit -8262 (Physical)", -- [29]
+				"Ashley-Sargeras Hand of Light Sicklymedic Hit -3176 (Holy)", -- [30]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Crit -1862 (Holy)", -- [31]
+				"Sicklymedic Whirlwind Ashley-Sargeras Hit -6337 (Physical)", -- [32]
+				"Ashley-Sargeras Censure (DoT) Sicklymedic Tick -1895 (Holy)", -- [33]
+				"Sicklymedic Whirlwind Ashley-Sargeras Multistrike (Crit) -3042 (Physical)", -- [34]
+				"Ashley-Sargeras Exorcism Sicklymedic Crit -15514 (Holy)", -- [35]
+				"Sicklymedic Melee Ashley-Sargeras Hit -4430 (Physical)", -- [36]
+				"Sicklymedic Storm Bolt Ashley-Sargeras Hit -2676 (Physical)", -- [37]
+				"Sicklymedic Mortal Strike Ashley-Sargeras Crit -25707 (Physical)", -- [38]
+				"Ashley-Sargeras Hammer of Wrath Sicklymedic Hit -18708 (Holy)", -- [39]
+				"Sicklymedic dies.", -- [40]
+				"Ashley-Sargeras Censure (DoT) Sicklymedic Tick -1902 (Holy)", -- [41]
+				"Sicklymedic Enraged Regeneration Sicklymedic Tick +14137", -- [42]
+				"Ashley-Sargeras Templar's Verdict Sicklymedic Immune (Physical)", -- [43]
+				"Ashley-Sargeras Melee Sicklymedic Immune (1)", -- [44]
+				"Sicklymedic Enraged Regeneration Sicklymedic Tick +14137", -- [45]
+				"Outstanding-Lightninghoof Flash of Light Sicklymedic Hit +18819", -- [46]
+				"Sicklymedic Enraged Regeneration Sicklymedic Tick +14137", -- [47]
+				"Ashley-Sargeras Judgment Sicklymedic Hit -10188 (Holy)", -- [48]
+				"Ashley-Sargeras Seal of Righteousness Sicklymedic Hit -1295 (Holy)", -- [49]
+				"Sicklymedic Rend (DoT) Ashley-Sargeras Tick -6058 (Physical)", -- [50]
+			},
+			["Name"] = "Sicklymedic",
+			["LastEventTimes"] = {
+				138915.463, -- [1]
+				138915.618, -- [2]
+				138915.94, -- [3]
+				138917.02, -- [4]
+				138917.589, -- [5]
+				138917.933, -- [6]
+				138917.958, -- [7]
+				138917.958, -- [8]
+				138918.633, -- [9]
+				138918.825, -- [10]
+				138918.906, -- [11]
+				138918.962, -- [12]
+				138919.292, -- [13]
+				138919.686, -- [14]
+				138919.841, -- [15]
+				138920.69, -- [16]
+				138921.29, -- [17]
+				138921.635, -- [18]
+				138922.075, -- [19]
+				138922.161, -- [20]
+				138922.235, -- [21]
+				138923.198, -- [22]
+				138923.219, -- [23]
+				138923.219, -- [24]
+				138923.531, -- [25]
+				138923.542, -- [26]
+				138923.988, -- [27]
+				138924.008, -- [28]
+				138924.295, -- [29]
+				138924.331, -- [30]
+				138924.331, -- [31]
+				138924.467, -- [32]
+				138924.619, -- [33]
+				138924.826, -- [34]
+				138925.317, -- [35]
+				138925.501, -- [36]
+				138925.925, -- [37]
+				138927.257, -- [38]
+				138927.486, -- [39]
+				138927.486, -- [40]
+				138912.625, -- [41]
+				138912.877, -- [42]
+				138912.97, -- [43]
+				138913.081, -- [44]
+				138913.828, -- [45]
+				138914.743, -- [46]
+				138914.827, -- [47]
+				138914.837, -- [48]
+				138915.336, -- [49]
+				138915.463, -- [50]
+			},
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				false, -- [10]
+				false, -- [11]
+				true, -- [12]
+				true, -- [13]
+				false, -- [14]
+				true, -- [15]
+				false, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				false, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				false, -- [32]
+				true, -- [33]
+				false, -- [34]
+				true, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				true, -- [39]
+				true, -- [40]
+				true, -- [41]
+				true, -- [42]
+				true, -- [43]
+				true, -- [44]
+				true, -- [45]
+				true, -- [46]
+				true, -- [47]
+				true, -- [48]
+				true, -- [49]
+				false, -- [50]
+			},
+			["Fights"] = {
+				["Fight1"] = {
+					["TimeHealing"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 3.79,
+								},
+							},
+							["amount"] = 3.79,
+						},
+					},
+					["DOTs"] = {
+						["Rend (DoT)"] = {
+							["Details"] = {
+								["Ashley-Sargeras"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["HOT_Time"] = 15,
+					["HOTs"] = {
+						["Enraged Regeneration"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["TimeSpent"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 3.79,
+								},
+							},
+							["amount"] = 3.79,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.01,
+								},
+								["Hamstring"] = {
+									["count"] = 0.19,
+								},
+							},
+							["amount"] = 1.2,
+						},
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 10.74,
+								},
+								["Storm Bolt"] = {
+									["count"] = 1.17,
+								},
+								["Rend"] = {
+									["count"] = 0,
+								},
+								["Colossus Smash"] = {
+									["count"] = 0.05,
+								},
+								["Mortal Strike"] = {
+									["count"] = 4.85,
+								},
+								["Enhanced Rend"] = {
+									["count"] = 0.05,
+								},
+								["Rend (DoT)"] = {
+									["count"] = 7.81,
+								},
+								["Bladestorm"] = {
+									["count"] = 0.48,
+								},
+								["Whirlwind"] = {
+									["count"] = 2.67,
+								},
+								["Hamstring"] = {
+									["count"] = 7.31,
+								},
+							},
+							["amount"] = 38.63,
+						},
+					},
+					["DamageTaken"] = 538197,
+					["RageGainedFrom"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 40,
+								},
+								["Savage Rage"] = {
+									["count"] = 309,
+								},
+								["Battle Stance"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 360,
+						},
+					},
+					["PartialResist"] = {
+						["Exorcism"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Chi Torpedo"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 15,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 12,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 11,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 11,
+						},
+					},
+					["DeathCount"] = 1,
+					["PartialAbsorb"] = {
+						["Exorcism"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Chi Torpedo"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 0,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 43.62,
+					["HealedWho"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 101418,
+								},
+							},
+							["amount"] = 101418,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 31948,
+						["Holy"] = 434163,
+						["Melee"] = 55219,
+						["Nature"] = 16867,
+					},
+					["RageGained"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+						["Savage Rage"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 309,
+								},
+							},
+							["amount"] = 309,
+						},
+						["Battle Stance"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["Damage"] = 277291,
+					["Heals"] = {
+						["Enraged Regeneration"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14137,
+									["min"] = 14137,
+									["count"] = 5,
+									["amount"] = 70685,
+								},
+								["Hit"] = {
+									["max"] = 30733,
+									["min"] = 30733,
+									["count"] = 1,
+									["amount"] = 30733,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 101418,
+						},
+					},
+					["TimeHeal"] = 3.79,
+					["ElementDoneAbsorb"] = {
+						["Melee"] = 1873,
+						["Physical"] = 87,
+					},
+					["HealingTaken"] = 165402,
+					["WhoHealed"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 101418,
+								},
+							},
+							["amount"] = 101418,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 63984,
+								},
+							},
+							["amount"] = 63984,
+						},
+					},
+					["Healing"] = 101418,
+					["DOT_Time"] = 21,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["count"] = 1,
+								},
+								["Multistrike"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 44,
+								},
+								["Crit"] = {
+									["count"] = 6,
+								},
+								["Tick"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 73,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Immune"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["Attacks"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorb"] = {
+									["max"] = 1873,
+									["min"] = 1873,
+									["count"] = 1,
+									["amount"] = 1873,
+								},
+								["Crit"] = {
+									["max"] = 7979,
+									["min"] = 6686,
+									["count"] = 2,
+									["amount"] = 14665,
+								},
+								["Hit"] = {
+									["max"] = 6177,
+									["min"] = 4370,
+									["count"] = 7,
+									["amount"] = 33479,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 50017,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2676,
+									["min"] = 2490,
+									["count"] = 2,
+									["amount"] = 5166,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 5166,
+						},
+						["Rend"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13950,
+									["min"] = 13950,
+									["count"] = 1,
+									["amount"] = 13950,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 13950,
+						},
+						["Colossus Smash"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13946,
+									["min"] = 13946,
+									["count"] = 1,
+									["amount"] = 13946,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 13946,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["max"] = 10781,
+									["min"] = 10781,
+									["count"] = 1,
+									["amount"] = 10781,
+								},
+								["Crit"] = {
+									["max"] = 25707,
+									["min"] = 25707,
+									["count"] = 1,
+									["amount"] = 25707,
+								},
+								["Hit"] = {
+									["max"] = 23957,
+									["min"] = 18057,
+									["count"] = 4,
+									["amount"] = 83593,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 120081,
+						},
+						["Enhanced Rend"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4804,
+									["min"] = 4518,
+									["count"] = 3,
+									["amount"] = 14105,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 14105,
+						},
+						["Rend (DoT)"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["max"] = 1818,
+									["min"] = 1818,
+									["count"] = 1,
+									["amount"] = 1818,
+								},
+								["Tick"] = {
+									["max"] = 6058,
+									["min"] = 5697,
+									["count"] = 6,
+									["amount"] = 35599,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 37417,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 11790,
+									["min"] = 11790,
+									["count"] = 1,
+									["amount"] = 11790,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 11790,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["max"] = 3042,
+									["min"] = 3042,
+									["count"] = 1,
+									["amount"] = 3042,
+								},
+								["Hit"] = {
+									["max"] = 6337,
+									["min"] = 6337,
+									["count"] = 1,
+									["amount"] = 6337,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 9379,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 87,
+									["min"] = 87,
+									["count"] = 1,
+									["amount"] = 87,
+								},
+								["Crit"] = {
+									["max"] = 293,
+									["min"] = 293,
+									["count"] = 1,
+									["amount"] = 293,
+								},
+								["Hit"] = {
+									["max"] = 265,
+									["min"] = 195,
+									["count"] = 5,
+									["amount"] = 1060,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 1440,
+						},
+					},
+					["RageGain"] = 360,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 11,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["count"] = 2,
+								},
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 18,
+								},
+								["Tick"] = {
+									["count"] = 6,
+								},
+								["Multistrike"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 31,
+						},
+					},
+					["TimeDamage"] = 39.83,
+					["TimeDamaging"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 10.74,
+								},
+								["Storm Bolt"] = {
+									["count"] = 1.17,
+								},
+								["Rend"] = {
+									["count"] = 0,
+								},
+								["Colossus Smash"] = {
+									["count"] = 0.05,
+								},
+								["Mortal Strike"] = {
+									["count"] = 4.85,
+								},
+								["Enhanced Rend"] = {
+									["count"] = 0.05,
+								},
+								["Rend (DoT)"] = {
+									["count"] = 7.81,
+								},
+								["Bladestorm"] = {
+									["count"] = 0.48,
+								},
+								["Whirlwind"] = {
+									["count"] = 2.67,
+								},
+								["Hamstring"] = {
+									["count"] = 7.31,
+								},
+							},
+							["amount"] = 38.63,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.01,
+								},
+								["Hamstring"] = {
+									["count"] = 0.19,
+								},
+							},
+							["amount"] = 1.2,
+						},
+					},
+					["WhoDamaged"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Exorcism"] = {
+									["count"] = 35500,
+								},
+								["Melee"] = {
+									["count"] = 55219,
+								},
+								["Judgment"] = {
+									["count"] = 60049,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 96534,
+								},
+								["Divine Storm"] = {
+									["count"] = 37702,
+								},
+								["Seal of Righteousness"] = {
+									["count"] = 22611,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 78670,
+								},
+								["Templar's Verdict"] = {
+									["count"] = 16542,
+								},
+								["Hand of Light"] = {
+									["count"] = 59095,
+								},
+								["Crusader Strike"] = {
+									["count"] = 15406,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 25644,
+								},
+								["Seal of Truth"] = {
+									["count"] = 18358,
+								},
+							},
+							["amount"] = 521330,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Chi Torpedo"] = {
+									["count"] = 16191,
+								},
+								["Zen Sphere"] = {
+									["count"] = 676,
+								},
+							},
+							["amount"] = 16867,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 50017,
+						["Physical"] = 227274,
+					},
+					["DamagedWho"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Hamstring"] = {
+									["count"] = 1150,
+								},
+								["Storm Bolt"] = {
+									["count"] = 5166,
+								},
+								["Rend"] = {
+									["count"] = 13950,
+								},
+								["Colossus Smash"] = {
+									["count"] = 13946,
+								},
+								["Mortal Strike"] = {
+									["count"] = 120081,
+								},
+								["Enhanced Rend"] = {
+									["count"] = 14105,
+								},
+								["Rend (DoT)"] = {
+									["count"] = 37417,
+								},
+								["Bladestorm"] = {
+									["count"] = 11790,
+								},
+								["Whirlwind"] = {
+									["count"] = 9379,
+								},
+								["Melee"] = {
+									["count"] = 43771,
+								},
+							},
+							["amount"] = 270755,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 6246,
+								},
+								["Hamstring"] = {
+									["count"] = 290,
+								},
+							},
+							["amount"] = 6536,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["TimeHealing"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 3.79,
+								},
+							},
+							["amount"] = 3.79,
+						},
+					},
+					["DOTs"] = {
+						["Rend (DoT)"] = {
+							["Details"] = {
+								["Ashley-Sargeras"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["HOT_Time"] = 15,
+					["HOTs"] = {
+						["Enraged Regeneration"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["TimeSpent"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 3.79,
+								},
+							},
+							["amount"] = 3.79,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.01,
+								},
+								["Hamstring"] = {
+									["count"] = 0.19,
+								},
+							},
+							["amount"] = 1.2,
+						},
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 10.74,
+								},
+								["Storm Bolt"] = {
+									["count"] = 1.17,
+								},
+								["Rend"] = {
+									["count"] = 0,
+								},
+								["Colossus Smash"] = {
+									["count"] = 0.05,
+								},
+								["Mortal Strike"] = {
+									["count"] = 4.85,
+								},
+								["Enhanced Rend"] = {
+									["count"] = 0.05,
+								},
+								["Rend (DoT)"] = {
+									["count"] = 7.81,
+								},
+								["Bladestorm"] = {
+									["count"] = 0.48,
+								},
+								["Whirlwind"] = {
+									["count"] = 2.67,
+								},
+								["Hamstring"] = {
+									["count"] = 7.31,
+								},
+							},
+							["amount"] = 38.63,
+						},
+					},
+					["DamageTaken"] = 538197,
+					["RageGainedFrom"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 40,
+								},
+								["Savage Rage"] = {
+									["count"] = 309,
+								},
+								["Battle Stance"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 360,
+						},
+					},
+					["PartialResist"] = {
+						["Exorcism"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Chi Torpedo"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 15,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 12,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 11,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 11,
+						},
+					},
+					["DeathCount"] = 1,
+					["PartialAbsorb"] = {
+						["Exorcism"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Chi Torpedo"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 0,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 43.62,
+					["HealedWho"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 101418,
+								},
+							},
+							["amount"] = 101418,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 31948,
+						["Holy"] = 434163,
+						["Melee"] = 55219,
+						["Nature"] = 16867,
+					},
+					["RageGained"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+						["Savage Rage"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 309,
+								},
+							},
+							["amount"] = 309,
+						},
+						["Battle Stance"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["Damage"] = 277291,
+					["Heals"] = {
+						["Enraged Regeneration"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14137,
+									["min"] = 14137,
+									["count"] = 5,
+									["amount"] = 70685,
+								},
+								["Hit"] = {
+									["max"] = 30733,
+									["min"] = 30733,
+									["count"] = 1,
+									["amount"] = 30733,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 101418,
+						},
+					},
+					["TimeHeal"] = 3.79,
+					["ElementDoneAbsorb"] = {
+						["Melee"] = 1873,
+						["Physical"] = 87,
+					},
+					["HealingTaken"] = 165402,
+					["WhoHealed"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 101418,
+								},
+							},
+							["amount"] = 101418,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 63984,
+								},
+							},
+							["amount"] = 63984,
+						},
+					},
+					["Healing"] = 101418,
+					["DOT_Time"] = 21,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["count"] = 1,
+								},
+								["Multistrike"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 44,
+								},
+								["Crit"] = {
+									["count"] = 6,
+								},
+								["Tick"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 73,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Immune"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["Attacks"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorb"] = {
+									["max"] = 1873,
+									["min"] = 1873,
+									["count"] = 1,
+									["amount"] = 1873,
+								},
+								["Crit"] = {
+									["max"] = 7979,
+									["min"] = 6686,
+									["count"] = 2,
+									["amount"] = 14665,
+								},
+								["Hit"] = {
+									["max"] = 6177,
+									["min"] = 4370,
+									["count"] = 7,
+									["amount"] = 33479,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 50017,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2676,
+									["min"] = 2490,
+									["count"] = 2,
+									["amount"] = 5166,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 5166,
+						},
+						["Rend"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13950,
+									["min"] = 13950,
+									["count"] = 1,
+									["amount"] = 13950,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 13950,
+						},
+						["Colossus Smash"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13946,
+									["min"] = 13946,
+									["count"] = 1,
+									["amount"] = 13946,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 13946,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["max"] = 10781,
+									["min"] = 10781,
+									["count"] = 1,
+									["amount"] = 10781,
+								},
+								["Crit"] = {
+									["max"] = 25707,
+									["min"] = 25707,
+									["count"] = 1,
+									["amount"] = 25707,
+								},
+								["Hit"] = {
+									["max"] = 23957,
+									["min"] = 18057,
+									["count"] = 4,
+									["amount"] = 83593,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 120081,
+						},
+						["Enhanced Rend"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4804,
+									["min"] = 4518,
+									["count"] = 3,
+									["amount"] = 14105,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 14105,
+						},
+						["Rend (DoT)"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["max"] = 1818,
+									["min"] = 1818,
+									["count"] = 1,
+									["amount"] = 1818,
+								},
+								["Tick"] = {
+									["max"] = 6058,
+									["min"] = 5697,
+									["count"] = 6,
+									["amount"] = 35599,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 37417,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 11790,
+									["min"] = 11790,
+									["count"] = 1,
+									["amount"] = 11790,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 11790,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["max"] = 3042,
+									["min"] = 3042,
+									["count"] = 1,
+									["amount"] = 3042,
+								},
+								["Hit"] = {
+									["max"] = 6337,
+									["min"] = 6337,
+									["count"] = 1,
+									["amount"] = 6337,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 9379,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 87,
+									["min"] = 87,
+									["count"] = 1,
+									["amount"] = 87,
+								},
+								["Crit"] = {
+									["max"] = 293,
+									["min"] = 293,
+									["count"] = 1,
+									["amount"] = 293,
+								},
+								["Hit"] = {
+									["max"] = 265,
+									["min"] = 195,
+									["count"] = 5,
+									["amount"] = 1060,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 1440,
+						},
+					},
+					["RageGain"] = 360,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 11,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["count"] = 2,
+								},
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 18,
+								},
+								["Tick"] = {
+									["count"] = 6,
+								},
+								["Multistrike"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 31,
+						},
+					},
+					["TimeDamage"] = 39.83,
+					["TimeDamaging"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 10.74,
+								},
+								["Storm Bolt"] = {
+									["count"] = 1.17,
+								},
+								["Rend"] = {
+									["count"] = 0,
+								},
+								["Colossus Smash"] = {
+									["count"] = 0.05,
+								},
+								["Mortal Strike"] = {
+									["count"] = 4.85,
+								},
+								["Enhanced Rend"] = {
+									["count"] = 0.05,
+								},
+								["Rend (DoT)"] = {
+									["count"] = 7.81,
+								},
+								["Bladestorm"] = {
+									["count"] = 0.48,
+								},
+								["Whirlwind"] = {
+									["count"] = 2.67,
+								},
+								["Hamstring"] = {
+									["count"] = 7.31,
+								},
+							},
+							["amount"] = 38.63,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.01,
+								},
+								["Hamstring"] = {
+									["count"] = 0.19,
+								},
+							},
+							["amount"] = 1.2,
+						},
+					},
+					["WhoDamaged"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Exorcism"] = {
+									["count"] = 35500,
+								},
+								["Melee"] = {
+									["count"] = 55219,
+								},
+								["Judgment"] = {
+									["count"] = 60049,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 96534,
+								},
+								["Divine Storm"] = {
+									["count"] = 37702,
+								},
+								["Seal of Righteousness"] = {
+									["count"] = 22611,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 78670,
+								},
+								["Templar's Verdict"] = {
+									["count"] = 16542,
+								},
+								["Hand of Light"] = {
+									["count"] = 59095,
+								},
+								["Crusader Strike"] = {
+									["count"] = 15406,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 25644,
+								},
+								["Seal of Truth"] = {
+									["count"] = 18358,
+								},
+							},
+							["amount"] = 521330,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Chi Torpedo"] = {
+									["count"] = 16191,
+								},
+								["Zen Sphere"] = {
+									["count"] = 676,
+								},
+							},
+							["amount"] = 16867,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 50017,
+						["Physical"] = 227274,
+					},
+					["DamagedWho"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Hamstring"] = {
+									["count"] = 1150,
+								},
+								["Storm Bolt"] = {
+									["count"] = 5166,
+								},
+								["Rend"] = {
+									["count"] = 13950,
+								},
+								["Colossus Smash"] = {
+									["count"] = 13946,
+								},
+								["Mortal Strike"] = {
+									["count"] = 120081,
+								},
+								["Enhanced Rend"] = {
+									["count"] = 14105,
+								},
+								["Rend (DoT)"] = {
+									["count"] = 37417,
+								},
+								["Bladestorm"] = {
+									["count"] = 11790,
+								},
+								["Whirlwind"] = {
+									["count"] = 9379,
+								},
+								["Melee"] = {
+									["count"] = 43771,
+								},
+							},
+							["amount"] = 270755,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 6246,
+								},
+								["Hamstring"] = {
+									["count"] = 290,
+								},
+							},
+							["amount"] = 6536,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 3.79,
+								},
+							},
+							["amount"] = 3.79,
+						},
+					},
+					["DOTs"] = {
+						["Rend (DoT)"] = {
+							["Details"] = {
+								["Ashley-Sargeras"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["HOT_Time"] = 15,
+					["HOTs"] = {
+						["Enraged Regeneration"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["TimeSpent"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 3.79,
+								},
+							},
+							["amount"] = 3.79,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.01,
+								},
+								["Hamstring"] = {
+									["count"] = 0.19,
+								},
+							},
+							["amount"] = 1.2,
+						},
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 10.74,
+								},
+								["Storm Bolt"] = {
+									["count"] = 1.17,
+								},
+								["Rend"] = {
+									["count"] = 0,
+								},
+								["Colossus Smash"] = {
+									["count"] = 0.05,
+								},
+								["Mortal Strike"] = {
+									["count"] = 4.85,
+								},
+								["Enhanced Rend"] = {
+									["count"] = 0.05,
+								},
+								["Rend (DoT)"] = {
+									["count"] = 7.81,
+								},
+								["Bladestorm"] = {
+									["count"] = 0.48,
+								},
+								["Whirlwind"] = {
+									["count"] = 2.67,
+								},
+								["Hamstring"] = {
+									["count"] = 7.31,
+								},
+							},
+							["amount"] = 38.63,
+						},
+					},
+					["DamageTaken"] = 538197,
+					["RageGainedFrom"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 40,
+								},
+								["Savage Rage"] = {
+									["count"] = 309,
+								},
+								["Battle Stance"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 360,
+						},
+					},
+					["PartialResist"] = {
+						["Exorcism"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Chi Torpedo"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 15,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 12,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 11,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 11,
+						},
+					},
+					["DeathCount"] = 1,
+					["PartialAbsorb"] = {
+						["Exorcism"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Chi Torpedo"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 0,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 43.62,
+					["HealedWho"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 101418,
+								},
+							},
+							["amount"] = 101418,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 31948,
+						["Holy"] = 434163,
+						["Melee"] = 55219,
+						["Nature"] = 16867,
+					},
+					["RageGained"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+						["Savage Rage"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 309,
+								},
+							},
+							["amount"] = 309,
+						},
+						["Battle Stance"] = {
+							["Details"] = {
+								["Sicklymedic"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["Damage"] = 277291,
+					["Heals"] = {
+						["Enraged Regeneration"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 14137,
+									["min"] = 14137,
+									["count"] = 5,
+									["amount"] = 70685,
+								},
+								["Hit"] = {
+									["max"] = 30733,
+									["min"] = 30733,
+									["count"] = 1,
+									["amount"] = 30733,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 101418,
+						},
+					},
+					["TimeHeal"] = 3.79,
+					["ElementDoneAbsorb"] = {
+						["Melee"] = 1873,
+						["Physical"] = 87,
+					},
+					["HealingTaken"] = 165402,
+					["WhoHealed"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Enraged Regeneration"] = {
+									["count"] = 101418,
+								},
+							},
+							["amount"] = 101418,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 63984,
+								},
+							},
+							["amount"] = 63984,
+						},
+					},
+					["Healing"] = 101418,
+					["DOT_Time"] = 21,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["count"] = 1,
+								},
+								["Multistrike"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 44,
+								},
+								["Crit"] = {
+									["count"] = 6,
+								},
+								["Tick"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 73,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Immune"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["Attacks"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorb"] = {
+									["max"] = 1873,
+									["min"] = 1873,
+									["count"] = 1,
+									["amount"] = 1873,
+								},
+								["Crit"] = {
+									["max"] = 7979,
+									["min"] = 6686,
+									["count"] = 2,
+									["amount"] = 14665,
+								},
+								["Hit"] = {
+									["max"] = 6177,
+									["min"] = 4370,
+									["count"] = 7,
+									["amount"] = 33479,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 50017,
+						},
+						["Storm Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2676,
+									["min"] = 2490,
+									["count"] = 2,
+									["amount"] = 5166,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 5166,
+						},
+						["Rend"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13950,
+									["min"] = 13950,
+									["count"] = 1,
+									["amount"] = 13950,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 13950,
+						},
+						["Colossus Smash"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13946,
+									["min"] = 13946,
+									["count"] = 1,
+									["amount"] = 13946,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 13946,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["max"] = 10781,
+									["min"] = 10781,
+									["count"] = 1,
+									["amount"] = 10781,
+								},
+								["Crit"] = {
+									["max"] = 25707,
+									["min"] = 25707,
+									["count"] = 1,
+									["amount"] = 25707,
+								},
+								["Hit"] = {
+									["max"] = 23957,
+									["min"] = 18057,
+									["count"] = 4,
+									["amount"] = 83593,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 120081,
+						},
+						["Enhanced Rend"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4804,
+									["min"] = 4518,
+									["count"] = 3,
+									["amount"] = 14105,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 14105,
+						},
+						["Rend (DoT)"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["max"] = 1818,
+									["min"] = 1818,
+									["count"] = 1,
+									["amount"] = 1818,
+								},
+								["Tick"] = {
+									["max"] = 6058,
+									["min"] = 5697,
+									["count"] = 6,
+									["amount"] = 35599,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 37417,
+						},
+						["Bladestorm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 11790,
+									["min"] = 11790,
+									["count"] = 1,
+									["amount"] = 11790,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 11790,
+						},
+						["Whirlwind"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["max"] = 3042,
+									["min"] = 3042,
+									["count"] = 1,
+									["amount"] = 3042,
+								},
+								["Hit"] = {
+									["max"] = 6337,
+									["min"] = 6337,
+									["count"] = 1,
+									["amount"] = 6337,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 9379,
+						},
+						["Hamstring"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 87,
+									["min"] = 87,
+									["count"] = 1,
+									["amount"] = 87,
+								},
+								["Crit"] = {
+									["max"] = 293,
+									["min"] = 293,
+									["count"] = 1,
+									["amount"] = 293,
+								},
+								["Hit"] = {
+									["max"] = 265,
+									["min"] = 195,
+									["count"] = 5,
+									["amount"] = 1060,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 1440,
+						},
+					},
+					["RageGain"] = 360,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 11,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Multistrike (Crit)"] = {
+									["count"] = 2,
+								},
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 18,
+								},
+								["Tick"] = {
+									["count"] = 6,
+								},
+								["Multistrike"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 31,
+						},
+					},
+					["TimeDamage"] = 39.83,
+					["TimeDamaging"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 10.74,
+								},
+								["Storm Bolt"] = {
+									["count"] = 1.17,
+								},
+								["Rend"] = {
+									["count"] = 0,
+								},
+								["Colossus Smash"] = {
+									["count"] = 0.05,
+								},
+								["Mortal Strike"] = {
+									["count"] = 4.85,
+								},
+								["Enhanced Rend"] = {
+									["count"] = 0.05,
+								},
+								["Rend (DoT)"] = {
+									["count"] = 7.81,
+								},
+								["Bladestorm"] = {
+									["count"] = 0.48,
+								},
+								["Whirlwind"] = {
+									["count"] = 2.67,
+								},
+								["Hamstring"] = {
+									["count"] = 7.31,
+								},
+							},
+							["amount"] = 38.63,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.01,
+								},
+								["Hamstring"] = {
+									["count"] = 0.19,
+								},
+							},
+							["amount"] = 1.2,
+						},
+					},
+					["WhoDamaged"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Exorcism"] = {
+									["count"] = 35500,
+								},
+								["Melee"] = {
+									["count"] = 55219,
+								},
+								["Judgment"] = {
+									["count"] = 60049,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 96534,
+								},
+								["Divine Storm"] = {
+									["count"] = 37702,
+								},
+								["Seal of Righteousness"] = {
+									["count"] = 22611,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 78670,
+								},
+								["Templar's Verdict"] = {
+									["count"] = 16542,
+								},
+								["Hand of Light"] = {
+									["count"] = 59095,
+								},
+								["Crusader Strike"] = {
+									["count"] = 15406,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 25644,
+								},
+								["Seal of Truth"] = {
+									["count"] = 18358,
+								},
+							},
+							["amount"] = 521330,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Chi Torpedo"] = {
+									["count"] = 16191,
+								},
+								["Zen Sphere"] = {
+									["count"] = 676,
+								},
+							},
+							["amount"] = 16867,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 50017,
+						["Physical"] = 227274,
+					},
+					["DamagedWho"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Hamstring"] = {
+									["count"] = 1150,
+								},
+								["Storm Bolt"] = {
+									["count"] = 5166,
+								},
+								["Rend"] = {
+									["count"] = 13950,
+								},
+								["Colossus Smash"] = {
+									["count"] = 13946,
+								},
+								["Mortal Strike"] = {
+									["count"] = 120081,
+								},
+								["Enhanced Rend"] = {
+									["count"] = 14105,
+								},
+								["Rend (DoT)"] = {
+									["count"] = 37417,
+								},
+								["Bladestorm"] = {
+									["count"] = 11790,
+								},
+								["Whirlwind"] = {
+									["count"] = 9379,
+								},
+								["Melee"] = {
+									["count"] = 43771,
+								},
+							},
+							["amount"] = 270755,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 6246,
+								},
+								["Hamstring"] = {
+									["count"] = 290,
+								},
+							},
+							["amount"] = 6536,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 138885.141,
+			["LastActive"] = 138927.143,
+		},
+		["Outstanding-Lightninghoof"] = {
+			["GUID"] = "Player-163-083410B1",
+			["LastEventHealth"] = {
+				"153148 (42%)", -- [1]
+				"148333 (41%)", -- [2]
+				"101443 (32%)", -- [3]
+				"101443 (32%)", -- [4]
+				"101443 (32%)", -- [5]
+				"71159 (22%)", -- [6]
+				"59516 (19%)", -- [7]
+				"57654 (18%)", -- [8]
+				"57654 (18%)", -- [9]
+				"56234 (17%)", -- [10]
+				"31323 (10%)", -- [11]
+				"24682 (7%)", -- [12]
+				"23261 (7%)", -- [13]
+				"23261 (7%)", -- [14]
+				"23261 (7%)", -- [15]
+				"18079 (5%)", -- [16]
+				"16087 (5%)", -- [17]
+				"1997 (0%)", -- [18]
+				"497 (0%)", -- [19]
+				"1 (0%)", -- [20]
+				"0 (0%)", -- [21]
+				"352050 (97%)", -- [22]
+				"352050 (97%)", -- [23]
+				"350289 (97%)", -- [24]
+				"315271 (87%)", -- [25]
+				"305860 (85%)", -- [26]
+				"303881 (84%)", -- [27]
+				"303881 (84%)", -- [28]
+				"296538 (82%)", -- [29]
+				"293715 (81%)", -- [30]
+				"248289 (69%)", -- [31]
+				"230825 (64%)", -- [32]
+				"228903 (63%)", -- [33]
+				"249825 (69%)", -- [34]
+				"249825 (69%)", -- [35]
+				"247961 (68%)", -- [36]
+				"218525 (60%)", -- [37]
+				"215649 (59%)", -- [38]
+				"208543 (58%)", -- [39]
+				"207968 (57%)", -- [40]
+				"195750 (54%)", -- [41]
+				"191052 (53%)", -- [42]
+				"188091 (52%)", -- [43]
+				"188091 (52%)", -- [44]
+				"188091 (52%)", -- [45]
+				"188091 (52%)", -- [46]
+				"188091 (52%)", -- [47]
+				"186047 (51%)", -- [48]
+				"169996 (47%)", -- [49]
+				"153148 (42%)", -- [50]
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"MISC", -- [21]
+				"HEAL", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"HEAL", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					6.72, -- [1]
+				},
+				["Healing"] = {
+					84906, -- [1]
+				},
+				["DamageTaken"] = {
+					344781, -- [1]
+				},
+				["HealingTaken"] = {
+					20922, -- [1]
+				},
+				["ActiveTime"] = {
+					36.73, -- [1]
+				},
+				["DeathCount"] = {
+					1, -- [1]
+				},
+				["TimeDamage"] = {
+					30.01, -- [1]
+				},
+				["DOT_Time"] = {
+					90, -- [1]
+				},
+				["Damage"] = {
+					141787, -- [1]
+				},
+			},
+			["enClass"] = "PALADIN",
+			["unit"] = "Outstanding-Lightninghoof",
+			["DeathLogs"] = {
+				{
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+						false, -- [7]
+						true, -- [8]
+						true, -- [9]
+						true, -- [10]
+						true, -- [11]
+						true, -- [12]
+						true, -- [13]
+						true, -- [14]
+						true, -- [15]
+						true, -- [16]
+						true, -- [17]
+						true, -- [18]
+						true, -- [19]
+						true, -- [20]
+						true, -- [21]
+						true, -- [22]
+						false, -- [23]
+						false, -- [24]
+						false, -- [25]
+						true, -- [26]
+						true, -- [27]
+						true, -- [28]
+						false, -- [29]
+						false, -- [30]
+						true, -- [31]
+						false, -- [32]
+						false, -- [33]
+						false, -- [34]
+						true, -- [35]
+						true, -- [36]
+						true, -- [37]
+						true, -- [38]
+						true, -- [39]
+						true, -- [40]
+						true, -- [41]
+						true, -- [42]
+						false, -- [43]
+						false, -- [44]
+						true, -- [45]
+						true, -- [46]
+						true, -- [47]
+						true, -- [48]
+						true, -- [49]
+						true, -- [50]
+					},
+					["Messages"] = {
+						"Outstanding-Lightninghoof Flash of Light Sicklymedic Hit +18819", -- [1]
+						"Ashley-Sargeras Melee Outstanding-Lightninghoof Hit -10540 (Physical)", -- [2]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1761 (Holy)", -- [3]
+						"Ashley-Sargeras Templar's Verdict Outstanding-Lightninghoof Hit -24478 (Physical)", -- [4]
+						"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -9411 (Holy)", -- [5]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1979 (Holy)", -- [6]
+						"Outstanding-Lightninghoof Censure (DoT) Corals-EmeraldDream Tick -909 (Holy)", -- [7]
+						"Ashley-Sargeras Templar's Verdict Outstanding-Lightninghoof Multistrike -7343 (Physical)", -- [8]
+						"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -2823 (Holy)", -- [9]
+						"Ashley-Sargeras Hammer of Wrath Outstanding-Lightninghoof Crit -45426 (Holy)", -- [10]
+						"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -17464 (Holy)", -- [11]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1922 (Holy)", -- [12]
+						"Outstanding-Lightninghoof Word of Glory Outstanding-Lightninghoof Hit +20922", -- [13]
+						"Ashley-Sargeras Melee Outstanding-Lightninghoof Hit -10952 (Physical)", -- [14]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1864 (Holy)", -- [15]
+						"Ashley-Sargeras Divine Storm Outstanding-Lightninghoof Hit -18484 (Holy)", -- [16]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Crit -2876 (Holy)", -- [17]
+						"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -7106 (Holy)", -- [18]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Multistrike -575 (Holy)", -- [19]
+						"Ashley-Sargeras Crusader Strike Outstanding-Lightninghoof Hit -12218 (Physical)", -- [20]
+						"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -4698 (Holy)", -- [21]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Crit -2961 (Holy)", -- [22]
+						"Outstanding-Lightninghoof Censure (DoT) Corals-EmeraldDream Tick -909 (Holy)", -- [23]
+						"Outstanding-Lightninghoof Judgment Ashley-Sargeras Hit -5987 (Holy)", -- [24]
+						"Outstanding-Lightninghoof Seal of Truth Ashley-Sargeras Hit -904 (Holy)", -- [25]
+						"Ashley-Sargeras Melee Outstanding-Lightninghoof Crit -16848 (Physical)", -- [26]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -2044 (Holy)", -- [27]
+						"Ashley-Sargeras Judgment Outstanding-Lightninghoof Hit -16051 (Holy)", -- [28]
+						"Outstanding-Lightninghoof Melee Ashley-Sargeras Hit -6178 (Physical)", -- [29]
+						"Outstanding-Lightninghoof Seal of Truth Ashley-Sargeras Hit -1126 (Holy)", -- [30]
+						"Ashley-Sargeras Judgment Outstanding-Lightninghoof Multistrike -4815 (Holy)", -- [31]
+						"Outstanding-Lightninghoof Hammer of Wrath Ashley-Sargeras Hit -20560 (Holy)", -- [32]
+						"Outstanding-Lightninghoof Seal of Truth Ashley-Sargeras Hit -1161 (Holy)", -- [33]
+						"Outstanding-Lightninghoof Hand of Light Ashley-Sargeras Hit -10124 (Holy)", -- [34]
+						"Ashley-Sargeras Hammer of Wrath Outstanding-Lightninghoof Hit -30284 (Holy)", -- [35]
+						"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -11643 (Holy)", -- [36]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1862 (Holy)", -- [37]
+						"Ashley-Sargeras Melee Outstanding-Lightninghoof Hit -7637 (Physical)", -- [38]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1420 (Holy)", -- [39]
+						"Ashley-Sargeras Templar's Verdict Outstanding-Lightninghoof Hit -17274 (Physical)", -- [40]
+						"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -6641 (Holy)", -- [41]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1421 (Holy)", -- [42]
+						"Outstanding-Lightninghoof Templar's Verdict Ashley-Sargeras Parry (Physical)", -- [43]
+						"Outstanding-Lightninghoof Censure (DoT) Ashley-Sargeras Tick -596 (Holy)", -- [44]
+						"Ashley-Sargeras Templar's Verdict Outstanding-Lightninghoof Multistrike -5182 (Physical)", -- [45]
+						"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -1992 (Holy)", -- [46]
+						"Ashley-Sargeras Divine Storm Outstanding-Lightninghoof Hit -14090 (Holy)", -- [47]
+						"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1500 (Holy)", -- [48]
+						"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -5417 (Holy)", -- [49]
+						"Outstanding-Lightninghoof dies.", -- [50]
+					},
+					["DeathAt"] = 138925.145,
+					["HealthNum"] = {
+						97.9304014019862, -- [1]
+						97.9304014019862, -- [2]
+						97.4405407660853, -- [3]
+						87.6995187626916, -- [4]
+						85.0816434393168, -- [5]
+						84.5311413391193, -- [6]
+						84.5311413391193, -- [7]
+						82.4885254109989, -- [8]
+						81.7032462655429, -- [9]
+						69.0670115997663, -- [10]
+						64.2090183315252, -- [11]
+						63.6743720270383, -- [12]
+						69.4942835683886, -- [13]
+						69.4942835683886, -- [14]
+						68.9757712314668, -- [15]
+						60.7875045202926, -- [16]
+						59.9874822665443, -- [17]
+						58.0107930679574, -- [18]
+						57.8508442515786, -- [19]
+						54.4521405324209, -- [20]
+						53.1452891596428, -- [21]
+						52.3216222982559, -- [22]
+						52.3216222982559, -- [23]
+						52.3216222982559, -- [24]
+						52.3216222982559, -- [25]
+						52.3216222982559, -- [26]
+						51.7530390275112, -- [27]
+						47.28810258978, -- [28]
+						42.6014631839551, -- [29]
+						42.6014631839551, -- [30]
+						41.2620657041921, -- [31]
+						32.4513755598209, -- [32]
+						32.4513755598209, -- [33]
+						32.4513755598209, -- [34]
+						22.7635956493922, -- [35]
+						19.0390275111964, -- [36]
+						18.4433781190019, -- [37]
+						18.4433781190019, -- [38]
+						17.9891234804862, -- [39]
+						10.0201535508637, -- [40]
+						7.89571337172105, -- [41]
+						7.44113883557262, -- [42]
+						7.44113883557262, -- [43]
+						7.44113883557262, -- [44]
+						5.78342930262316, -- [45]
+						5.14619321817019, -- [46]
+						0.638835572616763, -- [47]
+						0.158989123480486, -- [48]
+						0.000319897632757518, -- [49]
+						0, -- [50]
+					},
+					["MessageTimes"] = {
+						-8.69199999998091, -- [1]
+						-8.11900000000605, -- [2]
+						-8.09899999998743, -- [3]
+						-7.50599999999395, -- [4]
+						-7.49499999999534, -- [5]
+						-7.49499999999534, -- [6]
+						-7.44899999999325, -- [7]
+						-7.18099999998231, -- [8]
+						-7.1710000000021, -- [9]
+						-6.41500000000815, -- [10]
+						-6.41500000000815, -- [11]
+						-6.41500000000815, -- [12]
+						-6.22099999999045, -- [13]
+						-5.86699999999837, -- [14]
+						-5.84599999999045, -- [15]
+						-5.50200000000768, -- [16]
+						-5.4769999999844, -- [17]
+						-5.4769999999844, -- [18]
+						-5.14499999998952, -- [19]
+						-4.49499999999534, -- [20]
+						-4.47299999999814, -- [21]
+						-4.47299999999814, -- [22]
+						-4.46099999998114, -- [23]
+						-4.07699999999022, -- [24]
+						-4.04399999999441, -- [25]
+						-3.61699999999837, -- [26]
+						-3.59399999998277, -- [27]
+						-3.362999999983, -- [28]
+						-3.06099999998696, -- [29]
+						-3.0339999999851, -- [30]
+						-3.02400000000489, -- [31]
+						-2.33699999999953, -- [32]
+						-2.32800000000861, -- [33]
+						-2.32800000000861, -- [34]
+						-2.16699999998673, -- [35]
+						-2.14499999998952, -- [36]
+						-2.14499999998952, -- [37]
+						-1.38199999998324, -- [38]
+						-1.35999999998603, -- [39]
+						-1.25299999999697, -- [40]
+						-1.19999999998254, -- [41]
+						-1.19999999998254, -- [42]
+						-1.08499999999185, -- [43]
+						-1.04000000000815, -- [44]
+						-0.921000000002096, -- [45]
+						-0.902999999991152, -- [46]
+						-0.236999999993714, -- [47]
+						-0.215999999985797, -- [48]
+						-0.193999999988591, -- [49]
+						0, -- [50]
+					},
+					["KilledBy"] = "Ashley-Sargeras",
+					["Health"] = {
+						"352050 (97%)", -- [1]
+						"352050 (97%)", -- [2]
+						"350289 (97%)", -- [3]
+						"315271 (87%)", -- [4]
+						"305860 (85%)", -- [5]
+						"303881 (84%)", -- [6]
+						"303881 (84%)", -- [7]
+						"296538 (82%)", -- [8]
+						"293715 (81%)", -- [9]
+						"248289 (69%)", -- [10]
+						"230825 (64%)", -- [11]
+						"228903 (63%)", -- [12]
+						"249825 (69%)", -- [13]
+						"249825 (69%)", -- [14]
+						"247961 (68%)", -- [15]
+						"218525 (60%)", -- [16]
+						"215649 (59%)", -- [17]
+						"208543 (58%)", -- [18]
+						"207968 (57%)", -- [19]
+						"195750 (54%)", -- [20]
+						"191052 (53%)", -- [21]
+						"188091 (52%)", -- [22]
+						"188091 (52%)", -- [23]
+						"188091 (52%)", -- [24]
+						"188091 (52%)", -- [25]
+						"188091 (52%)", -- [26]
+						"186047 (51%)", -- [27]
+						"169996 (47%)", -- [28]
+						"153148 (42%)", -- [29]
+						"153148 (42%)", -- [30]
+						"148333 (41%)", -- [31]
+						"101443 (32%)", -- [32]
+						"101443 (32%)", -- [33]
+						"101443 (32%)", -- [34]
+						"71159 (22%)", -- [35]
+						"59516 (19%)", -- [36]
+						"57654 (18%)", -- [37]
+						"57654 (18%)", -- [38]
+						"56234 (17%)", -- [39]
+						"31323 (10%)", -- [40]
+						"24682 (7%)", -- [41]
+						"23261 (7%)", -- [42]
+						"23261 (7%)", -- [43]
+						"23261 (7%)", -- [44]
+						"18079 (5%)", -- [45]
+						"16087 (5%)", -- [46]
+						"1997 (0%)", -- [47]
+						"497 (0%)", -- [48]
+						"1 (0%)", -- [49]
+						"0 (0%)", -- [50]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						2.93193134718629, -- [2]
+						0.48986063590086, -- [3]
+						6.80909065620741, -- [4]
+						2.61787532337478, -- [5]
+						0.550502100197502, -- [6]
+						0, -- [7]
+						2.04261592812039, -- [8]
+						0.785279145456063, -- [9]
+						12.6362346657765, -- [10]
+						4.85799326824112, -- [11]
+						0.534646304486912, -- [12]
+						5.81991154135025, -- [13]
+						3.04653815126985, -- [14]
+						0.51851233692175, -- [15]
+						5.14172855990431, -- [16]
+						0.800022253748366, -- [17]
+						1.97668919858689, -- [18]
+						0.159948816378759, -- [19]
+						3.3987037191577, -- [20]
+						1.3068513727781, -- [21]
+						0.823666861386965, -- [22]
+						0, -- [23]
+						0, -- [24]
+						0, -- [25]
+						4.68663940582492, -- [26]
+						0.568583270744666, -- [27]
+						4.46493643773123, -- [28]
+						0, -- [29]
+						0, -- [30]
+						1.339397479763, -- [31]
+						0, -- [32]
+						0, -- [33]
+						0, -- [34]
+						9.68777991042866, -- [35]
+						3.72456813819578, -- [36]
+						0.595649392194498, -- [37]
+						2.44305822136916, -- [38]
+						0.454254638515675, -- [39]
+						5.52591170825336, -- [40]
+						2.12444017914267, -- [41]
+						0.454574536148433, -- [42]
+						0, -- [43]
+						0, -- [44]
+						1.65770953294946, -- [45]
+						0.637236084452975, -- [46]
+						4.50735764555342, -- [47]
+						0.479846449136276, -- [48]
+						1.73288547664747, -- [49]
+						0, -- [50]
+					},
+					["MessageType"] = {
+						"HEAL", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"HEAL", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"DAMAGE", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"MISC", -- [50]
+					},
+				}, -- [1]
+			},
+			["level"] = 100,
+			["LastDamageAbility"] = "Hand of Light",
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+				nil, -- [1]
+				1.339397479763, -- [2]
+				nil, -- [3]
+				nil, -- [4]
+				nil, -- [5]
+				9.68777991042866, -- [6]
+				3.72456813819578, -- [7]
+				0.595649392194498, -- [8]
+				2.44305822136916, -- [9]
+				0.454254638515675, -- [10]
+				5.52591170825336, -- [11]
+				2.12444017914267, -- [12]
+				0.454574536148433, -- [13]
+				nil, -- [14]
+				nil, -- [15]
+				1.65770953294946, -- [16]
+				0.637236084452975, -- [17]
+				4.50735764555342, -- [18]
+				0.479846449136276, -- [19]
+				1.73288547664747, -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				2.93193134718629, -- [23]
+				0.48986063590086, -- [24]
+				6.80909065620741, -- [25]
+				2.61787532337478, -- [26]
+				0.550502100197502, -- [27]
+				nil, -- [28]
+				2.04261592812039, -- [29]
+				0.785279145456063, -- [30]
+				12.6362346657765, -- [31]
+				4.85799326824112, -- [32]
+				0.534646304486912, -- [33]
+				5.81991154135025, -- [34]
+				3.04653815126985, -- [35]
+				0.51851233692175, -- [36]
+				5.14172855990431, -- [37]
+				0.800022253748366, -- [38]
+				1.97668919858689, -- [39]
+				0.159948816378759, -- [40]
+				3.3987037191577, -- [41]
+				1.3068513727781, -- [42]
+				0.823666861386965, -- [43]
+				nil, -- [44]
+				nil, -- [45]
+				nil, -- [46]
+				4.68663940582492, -- [47]
+				0.568583270744666, -- [48]
+				4.46493643773123, -- [49]
+			},
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 1,
+			["LastDamageTaken"] = 5417,
+			["TimeLast"] = {
+				["TimeHeal"] = 138917.144,
+				["OVERALL"] = 138923.145,
+				["DamageTaken"] = 138923.145,
+				["HealingTaken"] = 138917.144,
+				["DeathCount"] = 138923.145,
+				["TimeDamage"] = 138922.149,
+				["Healing"] = 138917.144,
+				["ActiveTime"] = 138922.149,
+				["DOT_Time"] = 138922.149,
+				["Damage"] = 138922.149,
+			},
+			["Owner"] = false,
+			["LastAbility"] = 138922.395,
+			["NextEventNum"] = 22,
+			["LastEventHealthNum"] = {
+				42.6014631839551, -- [1]
+				41.2620657041921, -- [2]
+				32.4513755598209, -- [3]
+				32.4513755598209, -- [4]
+				32.4513755598209, -- [5]
+				22.7635956493922, -- [6]
+				19.0390275111964, -- [7]
+				18.4433781190019, -- [8]
+				18.4433781190019, -- [9]
+				17.9891234804862, -- [10]
+				10.0201535508637, -- [11]
+				7.89571337172105, -- [12]
+				7.44113883557262, -- [13]
+				7.44113883557262, -- [14]
+				7.44113883557262, -- [15]
+				5.78342930262316, -- [16]
+				5.14619321817019, -- [17]
+				0.638835572616763, -- [18]
+				0.158989123480486, -- [19]
+				0.000319897632757518, -- [20]
+				0, -- [21]
+				97.9304014019862, -- [22]
+				97.9304014019862, -- [23]
+				97.4405407660853, -- [24]
+				87.6995187626916, -- [25]
+				85.0816434393168, -- [26]
+				84.5311413391193, -- [27]
+				84.5311413391193, -- [28]
+				82.4885254109989, -- [29]
+				81.7032462655429, -- [30]
+				69.0670115997663, -- [31]
+				64.2090183315252, -- [32]
+				63.6743720270383, -- [33]
+				69.4942835683886, -- [34]
+				69.4942835683886, -- [35]
+				68.9757712314668, -- [36]
+				60.7875045202926, -- [37]
+				59.9874822665443, -- [38]
+				58.0107930679574, -- [39]
+				57.8508442515786, -- [40]
+				54.4521405324209, -- [41]
+				53.1452891596428, -- [42]
+				52.3216222982559, -- [43]
+				52.3216222982559, -- [44]
+				52.3216222982559, -- [45]
+				52.3216222982559, -- [46]
+				52.3216222982559, -- [47]
+				51.7530390275112, -- [48]
+				47.28810258978, -- [49]
+				42.6014631839551, -- [50]
+			},
+			["LastEvents"] = {
+				"Outstanding-Lightninghoof Seal of Truth Ashley-Sargeras Hit -1126 (Holy)", -- [1]
+				"Ashley-Sargeras Judgment Outstanding-Lightninghoof Multistrike -4815 (Holy)", -- [2]
+				"Outstanding-Lightninghoof Hammer of Wrath Ashley-Sargeras Hit -20560 (Holy)", -- [3]
+				"Outstanding-Lightninghoof Seal of Truth Ashley-Sargeras Hit -1161 (Holy)", -- [4]
+				"Outstanding-Lightninghoof Hand of Light Ashley-Sargeras Hit -10124 (Holy)", -- [5]
+				"Ashley-Sargeras Hammer of Wrath Outstanding-Lightninghoof Hit -30284 (Holy)", -- [6]
+				"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -11643 (Holy)", -- [7]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1862 (Holy)", -- [8]
+				"Ashley-Sargeras Melee Outstanding-Lightninghoof Hit -7637 (Physical)", -- [9]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1420 (Holy)", -- [10]
+				"Ashley-Sargeras Templar's Verdict Outstanding-Lightninghoof Hit -17274 (Physical)", -- [11]
+				"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -6641 (Holy)", -- [12]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1421 (Holy)", -- [13]
+				"Outstanding-Lightninghoof Templar's Verdict Ashley-Sargeras Parry (Physical)", -- [14]
+				"Outstanding-Lightninghoof Censure (DoT) Ashley-Sargeras Tick -596 (Holy)", -- [15]
+				"Ashley-Sargeras Templar's Verdict Outstanding-Lightninghoof Multistrike -5182 (Physical)", -- [16]
+				"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -1992 (Holy)", -- [17]
+				"Ashley-Sargeras Divine Storm Outstanding-Lightninghoof Hit -14090 (Holy)", -- [18]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1500 (Holy)", -- [19]
+				"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -5417 (Holy)", -- [20]
+				"Outstanding-Lightninghoof dies.", -- [21]
+				"Outstanding-Lightninghoof Flash of Light Sicklymedic Hit +18819", -- [22]
+				"Ashley-Sargeras Melee Outstanding-Lightninghoof Hit -10540 (Physical)", -- [23]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1761 (Holy)", -- [24]
+				"Ashley-Sargeras Templar's Verdict Outstanding-Lightninghoof Hit -24478 (Physical)", -- [25]
+				"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -9411 (Holy)", -- [26]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1979 (Holy)", -- [27]
+				"Outstanding-Lightninghoof Censure (DoT) Corals-EmeraldDream Tick -909 (Holy)", -- [28]
+				"Ashley-Sargeras Templar's Verdict Outstanding-Lightninghoof Multistrike -7343 (Physical)", -- [29]
+				"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -2823 (Holy)", -- [30]
+				"Ashley-Sargeras Hammer of Wrath Outstanding-Lightninghoof Crit -45426 (Holy)", -- [31]
+				"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -17464 (Holy)", -- [32]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1922 (Holy)", -- [33]
+				"Outstanding-Lightninghoof Word of Glory Outstanding-Lightninghoof Hit +20922", -- [34]
+				"Ashley-Sargeras Melee Outstanding-Lightninghoof Hit -10952 (Physical)", -- [35]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -1864 (Holy)", -- [36]
+				"Ashley-Sargeras Divine Storm Outstanding-Lightninghoof Hit -18484 (Holy)", -- [37]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Crit -2876 (Holy)", -- [38]
+				"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -7106 (Holy)", -- [39]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Multistrike -575 (Holy)", -- [40]
+				"Ashley-Sargeras Crusader Strike Outstanding-Lightninghoof Hit -12218 (Physical)", -- [41]
+				"Ashley-Sargeras Hand of Light Outstanding-Lightninghoof Hit -4698 (Holy)", -- [42]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Crit -2961 (Holy)", -- [43]
+				"Outstanding-Lightninghoof Censure (DoT) Corals-EmeraldDream Tick -909 (Holy)", -- [44]
+				"Outstanding-Lightninghoof Judgment Ashley-Sargeras Hit -5987 (Holy)", -- [45]
+				"Outstanding-Lightninghoof Seal of Truth Ashley-Sargeras Hit -904 (Holy)", -- [46]
+				"Ashley-Sargeras Melee Outstanding-Lightninghoof Crit -16848 (Physical)", -- [47]
+				"Ashley-Sargeras Seal of Righteousness Outstanding-Lightninghoof Hit -2044 (Holy)", -- [48]
+				"Ashley-Sargeras Judgment Outstanding-Lightninghoof Hit -16051 (Holy)", -- [49]
+				"Outstanding-Lightninghoof Melee Ashley-Sargeras Hit -6178 (Physical)", -- [50]
+			},
+			["Name"] = "Outstanding-Lightninghoof",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				false, -- [14]
+				false, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				false, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				false, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				true, -- [39]
+				true, -- [40]
+				true, -- [41]
+				true, -- [42]
+				true, -- [43]
+				false, -- [44]
+				false, -- [45]
+				false, -- [46]
+				true, -- [47]
+				true, -- [48]
+				true, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				138920.401, -- [1]
+				138920.411, -- [2]
+				138921.098, -- [3]
+				138921.107, -- [4]
+				138921.107, -- [5]
+				138921.268, -- [6]
+				138921.29, -- [7]
+				138921.29, -- [8]
+				138922.053, -- [9]
+				138922.075, -- [10]
+				138922.182, -- [11]
+				138922.235, -- [12]
+				138922.235, -- [13]
+				138922.35, -- [14]
+				138922.395, -- [15]
+				138922.514, -- [16]
+				138922.532, -- [17]
+				138923.198, -- [18]
+				138923.219, -- [19]
+				138923.241, -- [20]
+				138923.435, -- [21]
+				138914.743, -- [22]
+				138915.316, -- [23]
+				138915.336, -- [24]
+				138915.929, -- [25]
+				138915.94, -- [26]
+				138915.94, -- [27]
+				138915.986, -- [28]
+				138916.254, -- [29]
+				138916.264, -- [30]
+				138917.02, -- [31]
+				138917.02, -- [32]
+				138917.02, -- [33]
+				138917.214, -- [34]
+				138917.568, -- [35]
+				138917.589, -- [36]
+				138917.933, -- [37]
+				138917.958, -- [38]
+				138917.958, -- [39]
+				138918.29, -- [40]
+				138918.94, -- [41]
+				138918.962, -- [42]
+				138918.962, -- [43]
+				138918.974, -- [44]
+				138919.358, -- [45]
+				138919.391, -- [46]
+				138919.818, -- [47]
+				138919.841, -- [48]
+				138920.072, -- [49]
+				138920.374, -- [50]
+			},
+			["Fights"] = {
+				["Fight1"] = {
+					["TimeHealing"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 5.49,
+								},
+							},
+							["amount"] = 5.49,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 1.23,
+								},
+							},
+							["amount"] = 1.23,
+						},
+					},
+					["DOTs"] = {
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["Ashley-Sargeras"] = {
+									["count"] = 24,
+								},
+								["Corals-EmeraldDream"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 51,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["Corals-EmeraldDream"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 39,
+						},
+					},
+					["TimeSpent"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 5.49,
+								},
+							},
+							["amount"] = 5.49,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Exorcism"] = {
+									["count"] = 0.74,
+								},
+								["Melee"] = {
+									["count"] = 3.06,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 6.23,
+								},
+								["Judgment"] = {
+									["count"] = 0.15,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.68,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 8.04,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.08,
+								},
+							},
+							["amount"] = 18.98,
+						},
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Templar's Verdict"] = {
+									["count"] = 1.24,
+								},
+								["Exorcism"] = {
+									["count"] = 1.35,
+								},
+								["Melee"] = {
+									["count"] = 1.62,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 0.7,
+								},
+								["Judgment"] = {
+									["count"] = 3.88,
+								},
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 2.13,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 11.03,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 1.23,
+								},
+							},
+							["amount"] = 1.23,
+						},
+					},
+					["DamageTaken"] = 344781,
+					["ElementDoneAbsorb"] = {
+						["Melee"] = 1610,
+						["Holy"] = 12554,
+					},
+					["PartialResist"] = {
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 12,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 1,
+					["PartialAbsorb"] = {
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 36.73,
+					["ElementTaken"] = {
+						["Holy"] = 232309,
+						["Melee"] = 45977,
+						["Physical"] = 66495,
+					},
+					["DOT_Time"] = 90,
+					["Damage"] = 141787,
+					["TimeHeal"] = 6.72,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+								["Multistrike"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 31,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["WhoHealed"] = {
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 20922,
+								},
+							},
+							["amount"] = 20922,
+						},
+					},
+					["Healing"] = 84906,
+					["HealedWho"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 63984,
+								},
+							},
+							["amount"] = 63984,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 20922,
+								},
+							},
+							["amount"] = 20922,
+						},
+					},
+					["Heals"] = {
+						["Flash of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 26346,
+									["min"] = 18819,
+									["count"] = 3,
+									["amount"] = 63984,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 63984,
+						},
+						["Word of Glory"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 20922,
+									["min"] = 20922,
+									["count"] = 1,
+									["amount"] = 20922,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 20922,
+						},
+					},
+					["ElementDone"] = {
+						["Holy"] = 108252,
+						["Melee"] = 27219,
+						["Physical"] = 6316,
+					},
+					["HealingTaken"] = 20922,
+					["DamagedWho"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Exorcism"] = {
+									["count"] = 6460,
+								},
+								["Melee"] = {
+									["count"] = 13591,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 20560,
+								},
+								["Judgment"] = {
+									["count"] = 12324,
+								},
+								["Hand of Light"] = {
+									["count"] = 10124,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 3621,
+								},
+								["Seal of Truth"] = {
+									["count"] = 5116,
+								},
+							},
+							["amount"] = 71796,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Hand of Light"] = {
+									["count"] = 3110,
+								},
+								["Exorcism"] = {
+									["count"] = 6200,
+								},
+								["Melee"] = {
+									["count"] = 13628,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 25044,
+								},
+								["Judgment"] = {
+									["count"] = 6081,
+								},
+								["Crusader Strike"] = {
+									["count"] = 6316,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 6042,
+								},
+								["Seal of Truth"] = {
+									["count"] = 3570,
+								},
+							},
+							["amount"] = 69991,
+						},
+					},
+					["TimeDamage"] = 30.01,
+					["TimeDamaging"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Templar's Verdict"] = {
+									["count"] = 1.24,
+								},
+								["Exorcism"] = {
+									["count"] = 1.35,
+								},
+								["Melee"] = {
+									["count"] = 1.62,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 0.7,
+								},
+								["Judgment"] = {
+									["count"] = 3.88,
+								},
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 2.13,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 11.03,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Exorcism"] = {
+									["count"] = 0.74,
+								},
+								["Melee"] = {
+									["count"] = 3.06,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 6.23,
+								},
+								["Judgment"] = {
+									["count"] = 0.15,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.68,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 8.04,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.08,
+								},
+							},
+							["amount"] = 18.98,
+						},
+					},
+					["Attacks"] = {
+						["Exorcism"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1860,
+									["min"] = 1860,
+									["count"] = 1,
+									["amount"] = 1860,
+								},
+								["Hit"] = {
+									["max"] = 6460,
+									["min"] = 4340,
+									["count"] = 2,
+									["amount"] = 10800,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 12660,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1610,
+									["min"] = 1610,
+									["count"] = 1,
+									["amount"] = 1610,
+								},
+								["Crit"] = {
+									["max"] = 8260,
+									["min"] = 7413,
+									["count"] = 2,
+									["amount"] = 15673,
+								},
+								["Hit"] = {
+									["max"] = 6178,
+									["min"] = 3758,
+									["count"] = 2,
+									["amount"] = 9936,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 27219,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1824,
+									["min"] = 1824,
+									["count"] = 1,
+									["amount"] = 1824,
+								},
+								["Hit"] = {
+									["max"] = 6337,
+									["min"] = 4257,
+									["count"] = 3,
+									["amount"] = 16581,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 18405,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 20560,
+									["min"] = 20560,
+									["count"] = 1,
+									["amount"] = 20560,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 20560,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2223,
+									["min"] = 150,
+									["count"] = 13,
+									["amount"] = 7508,
+								},
+								["Multistrike"] = {
+									["max"] = 515,
+									["min"] = 352,
+									["count"] = 3,
+									["amount"] = 1336,
+								},
+								["Tick"] = {
+									["max"] = 5189,
+									["min"] = 880,
+									["count"] = 10,
+									["amount"] = 16200,
+								},
+							},
+							["count"] = 26,
+							["amount"] = 25044,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10124,
+									["min"] = 3110,
+									["count"] = 2,
+									["amount"] = 13234,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 13234,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6316,
+									["min"] = 6316,
+									["count"] = 1,
+									["amount"] = 6316,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6316,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["max"] = 136,
+									["min"] = 136,
+									["count"] = 1,
+									["amount"] = 136,
+								},
+								["Absorb"] = {
+									["max"] = 272,
+									["min"] = 136,
+									["count"] = 4,
+									["amount"] = 816,
+								},
+								["Crit"] = {
+									["max"] = 710,
+									["min"] = 681,
+									["count"] = 3,
+									["amount"] = 2072,
+								},
+								["Tick"] = {
+									["max"] = 909,
+									["min"] = 224,
+									["count"] = 13,
+									["amount"] = 6639,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 9663,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 285,
+									["min"] = 261,
+									["count"] = 2,
+									["amount"] = 546,
+								},
+								["Hit"] = {
+									["max"] = 1161,
+									["min"] = 610,
+									["count"] = 9,
+									["amount"] = 8140,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 8686,
+						},
+					},
+					["WhoDamaged"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Seal of Righteousness"] = {
+									["count"] = 22185,
+								},
+								["Judgment"] = {
+									["count"] = 32316,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 75710,
+								},
+								["Crusader Strike"] = {
+									["count"] = 12218,
+								},
+								["Divine Storm"] = {
+									["count"] = 32574,
+								},
+								["Hand of Light"] = {
+									["count"] = 67195,
+								},
+								["Melee"] = {
+									["count"] = 45977,
+								},
+								["Templar's Verdict"] = {
+									["count"] = 54277,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 917,
+								},
+								["Seal of Truth"] = {
+									["count"] = 1412,
+								},
+							},
+							["amount"] = 344781,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 21,
+								},
+								["Hit"] = {
+									["count"] = 17,
+								},
+								["Multistrike"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 23,
+								},
+							},
+							["amount"] = 68,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["TimeHealing"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 5.49,
+								},
+							},
+							["amount"] = 5.49,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 1.23,
+								},
+							},
+							["amount"] = 1.23,
+						},
+					},
+					["DOTs"] = {
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["Ashley-Sargeras"] = {
+									["count"] = 24,
+								},
+								["Corals-EmeraldDream"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 51,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["Corals-EmeraldDream"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 39,
+						},
+					},
+					["TimeSpent"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 5.49,
+								},
+							},
+							["amount"] = 5.49,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Exorcism"] = {
+									["count"] = 0.74,
+								},
+								["Melee"] = {
+									["count"] = 3.06,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 6.23,
+								},
+								["Judgment"] = {
+									["count"] = 0.15,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.68,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 8.04,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.08,
+								},
+							},
+							["amount"] = 18.98,
+						},
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Templar's Verdict"] = {
+									["count"] = 1.24,
+								},
+								["Exorcism"] = {
+									["count"] = 1.35,
+								},
+								["Melee"] = {
+									["count"] = 1.62,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 0.7,
+								},
+								["Judgment"] = {
+									["count"] = 3.88,
+								},
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 2.13,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 11.03,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 1.23,
+								},
+							},
+							["amount"] = 1.23,
+						},
+					},
+					["DamageTaken"] = 344781,
+					["ElementDoneAbsorb"] = {
+						["Melee"] = 1610,
+						["Holy"] = 12554,
+					},
+					["PartialResist"] = {
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 12,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 1,
+					["PartialAbsorb"] = {
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 36.73,
+					["ElementTaken"] = {
+						["Holy"] = 232309,
+						["Melee"] = 45977,
+						["Physical"] = 66495,
+					},
+					["DOT_Time"] = 90,
+					["Damage"] = 141787,
+					["TimeHeal"] = 6.72,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+								["Multistrike"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 31,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["WhoHealed"] = {
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 20922,
+								},
+							},
+							["amount"] = 20922,
+						},
+					},
+					["Healing"] = 84906,
+					["HealedWho"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 63984,
+								},
+							},
+							["amount"] = 63984,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 20922,
+								},
+							},
+							["amount"] = 20922,
+						},
+					},
+					["Heals"] = {
+						["Flash of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 26346,
+									["min"] = 18819,
+									["count"] = 3,
+									["amount"] = 63984,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 63984,
+						},
+						["Word of Glory"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 20922,
+									["min"] = 20922,
+									["count"] = 1,
+									["amount"] = 20922,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 20922,
+						},
+					},
+					["ElementDone"] = {
+						["Holy"] = 108252,
+						["Melee"] = 27219,
+						["Physical"] = 6316,
+					},
+					["HealingTaken"] = 20922,
+					["DamagedWho"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Exorcism"] = {
+									["count"] = 6460,
+								},
+								["Melee"] = {
+									["count"] = 13591,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 20560,
+								},
+								["Judgment"] = {
+									["count"] = 12324,
+								},
+								["Hand of Light"] = {
+									["count"] = 10124,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 3621,
+								},
+								["Seal of Truth"] = {
+									["count"] = 5116,
+								},
+							},
+							["amount"] = 71796,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Hand of Light"] = {
+									["count"] = 3110,
+								},
+								["Exorcism"] = {
+									["count"] = 6200,
+								},
+								["Melee"] = {
+									["count"] = 13628,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 25044,
+								},
+								["Judgment"] = {
+									["count"] = 6081,
+								},
+								["Crusader Strike"] = {
+									["count"] = 6316,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 6042,
+								},
+								["Seal of Truth"] = {
+									["count"] = 3570,
+								},
+							},
+							["amount"] = 69991,
+						},
+					},
+					["TimeDamage"] = 30.01,
+					["TimeDamaging"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Templar's Verdict"] = {
+									["count"] = 1.24,
+								},
+								["Exorcism"] = {
+									["count"] = 1.35,
+								},
+								["Melee"] = {
+									["count"] = 1.62,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 0.7,
+								},
+								["Judgment"] = {
+									["count"] = 3.88,
+								},
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 2.13,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 11.03,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Exorcism"] = {
+									["count"] = 0.74,
+								},
+								["Melee"] = {
+									["count"] = 3.06,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 6.23,
+								},
+								["Judgment"] = {
+									["count"] = 0.15,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.68,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 8.04,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.08,
+								},
+							},
+							["amount"] = 18.98,
+						},
+					},
+					["Attacks"] = {
+						["Exorcism"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1860,
+									["min"] = 1860,
+									["count"] = 1,
+									["amount"] = 1860,
+								},
+								["Hit"] = {
+									["max"] = 6460,
+									["min"] = 4340,
+									["count"] = 2,
+									["amount"] = 10800,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 12660,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1610,
+									["min"] = 1610,
+									["count"] = 1,
+									["amount"] = 1610,
+								},
+								["Crit"] = {
+									["max"] = 8260,
+									["min"] = 7413,
+									["count"] = 2,
+									["amount"] = 15673,
+								},
+								["Hit"] = {
+									["max"] = 6178,
+									["min"] = 3758,
+									["count"] = 2,
+									["amount"] = 9936,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 27219,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1824,
+									["min"] = 1824,
+									["count"] = 1,
+									["amount"] = 1824,
+								},
+								["Hit"] = {
+									["max"] = 6337,
+									["min"] = 4257,
+									["count"] = 3,
+									["amount"] = 16581,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 18405,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 20560,
+									["min"] = 20560,
+									["count"] = 1,
+									["amount"] = 20560,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 20560,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2223,
+									["min"] = 150,
+									["count"] = 13,
+									["amount"] = 7508,
+								},
+								["Multistrike"] = {
+									["max"] = 515,
+									["min"] = 352,
+									["count"] = 3,
+									["amount"] = 1336,
+								},
+								["Tick"] = {
+									["max"] = 5189,
+									["min"] = 880,
+									["count"] = 10,
+									["amount"] = 16200,
+								},
+							},
+							["count"] = 26,
+							["amount"] = 25044,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10124,
+									["min"] = 3110,
+									["count"] = 2,
+									["amount"] = 13234,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 13234,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6316,
+									["min"] = 6316,
+									["count"] = 1,
+									["amount"] = 6316,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6316,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["max"] = 136,
+									["min"] = 136,
+									["count"] = 1,
+									["amount"] = 136,
+								},
+								["Absorb"] = {
+									["max"] = 272,
+									["min"] = 136,
+									["count"] = 4,
+									["amount"] = 816,
+								},
+								["Crit"] = {
+									["max"] = 710,
+									["min"] = 681,
+									["count"] = 3,
+									["amount"] = 2072,
+								},
+								["Tick"] = {
+									["max"] = 909,
+									["min"] = 224,
+									["count"] = 13,
+									["amount"] = 6639,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 9663,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 285,
+									["min"] = 261,
+									["count"] = 2,
+									["amount"] = 546,
+								},
+								["Hit"] = {
+									["max"] = 1161,
+									["min"] = 610,
+									["count"] = 9,
+									["amount"] = 8140,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 8686,
+						},
+					},
+					["WhoDamaged"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Seal of Righteousness"] = {
+									["count"] = 22185,
+								},
+								["Judgment"] = {
+									["count"] = 32316,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 75710,
+								},
+								["Crusader Strike"] = {
+									["count"] = 12218,
+								},
+								["Divine Storm"] = {
+									["count"] = 32574,
+								},
+								["Hand of Light"] = {
+									["count"] = 67195,
+								},
+								["Melee"] = {
+									["count"] = 45977,
+								},
+								["Templar's Verdict"] = {
+									["count"] = 54277,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 917,
+								},
+								["Seal of Truth"] = {
+									["count"] = 1412,
+								},
+							},
+							["amount"] = 344781,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 21,
+								},
+								["Hit"] = {
+									["count"] = 17,
+								},
+								["Multistrike"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 23,
+								},
+							},
+							["amount"] = 68,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 5.49,
+								},
+							},
+							["amount"] = 5.49,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 1.23,
+								},
+							},
+							["amount"] = 1.23,
+						},
+					},
+					["DOTs"] = {
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["Ashley-Sargeras"] = {
+									["count"] = 24,
+								},
+								["Corals-EmeraldDream"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 51,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["Corals-EmeraldDream"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 39,
+						},
+					},
+					["TimeSpent"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 5.49,
+								},
+							},
+							["amount"] = 5.49,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Exorcism"] = {
+									["count"] = 0.74,
+								},
+								["Melee"] = {
+									["count"] = 3.06,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 6.23,
+								},
+								["Judgment"] = {
+									["count"] = 0.15,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.68,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 8.04,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.08,
+								},
+							},
+							["amount"] = 18.98,
+						},
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Templar's Verdict"] = {
+									["count"] = 1.24,
+								},
+								["Exorcism"] = {
+									["count"] = 1.35,
+								},
+								["Melee"] = {
+									["count"] = 1.62,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 0.7,
+								},
+								["Judgment"] = {
+									["count"] = 3.88,
+								},
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 2.13,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 11.03,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 1.23,
+								},
+							},
+							["amount"] = 1.23,
+						},
+					},
+					["DamageTaken"] = 344781,
+					["ElementDoneAbsorb"] = {
+						["Melee"] = 1610,
+						["Holy"] = 12554,
+					},
+					["PartialResist"] = {
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 12,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 1,
+					["PartialAbsorb"] = {
+						["Seal of Righteousness"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 0,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Zen Sphere"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Divine Storm"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 36.73,
+					["ElementTaken"] = {
+						["Holy"] = 232309,
+						["Melee"] = 45977,
+						["Physical"] = 66495,
+					},
+					["DOT_Time"] = 90,
+					["Damage"] = 141787,
+					["TimeHeal"] = 6.72,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+								["Multistrike"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 31,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["WhoHealed"] = {
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 20922,
+								},
+							},
+							["amount"] = 20922,
+						},
+					},
+					["Healing"] = 84906,
+					["HealedWho"] = {
+						["Sicklymedic"] = {
+							["Details"] = {
+								["Flash of Light"] = {
+									["count"] = 63984,
+								},
+							},
+							["amount"] = 63984,
+						},
+						["Outstanding-Lightninghoof"] = {
+							["Details"] = {
+								["Word of Glory"] = {
+									["count"] = 20922,
+								},
+							},
+							["amount"] = 20922,
+						},
+					},
+					["Heals"] = {
+						["Flash of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 26346,
+									["min"] = 18819,
+									["count"] = 3,
+									["amount"] = 63984,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 63984,
+						},
+						["Word of Glory"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 20922,
+									["min"] = 20922,
+									["count"] = 1,
+									["amount"] = 20922,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 20922,
+						},
+					},
+					["ElementDone"] = {
+						["Holy"] = 108252,
+						["Melee"] = 27219,
+						["Physical"] = 6316,
+					},
+					["HealingTaken"] = 20922,
+					["DamagedWho"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Exorcism"] = {
+									["count"] = 6460,
+								},
+								["Melee"] = {
+									["count"] = 13591,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 20560,
+								},
+								["Judgment"] = {
+									["count"] = 12324,
+								},
+								["Hand of Light"] = {
+									["count"] = 10124,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 3621,
+								},
+								["Seal of Truth"] = {
+									["count"] = 5116,
+								},
+							},
+							["amount"] = 71796,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Hand of Light"] = {
+									["count"] = 3110,
+								},
+								["Exorcism"] = {
+									["count"] = 6200,
+								},
+								["Melee"] = {
+									["count"] = 13628,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 25044,
+								},
+								["Judgment"] = {
+									["count"] = 6081,
+								},
+								["Crusader Strike"] = {
+									["count"] = 6316,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 6042,
+								},
+								["Seal of Truth"] = {
+									["count"] = 3570,
+								},
+							},
+							["amount"] = 69991,
+						},
+					},
+					["TimeDamage"] = 30.01,
+					["TimeDamaging"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Templar's Verdict"] = {
+									["count"] = 1.24,
+								},
+								["Exorcism"] = {
+									["count"] = 1.35,
+								},
+								["Melee"] = {
+									["count"] = 1.62,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 0.7,
+								},
+								["Judgment"] = {
+									["count"] = 3.88,
+								},
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 2.13,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.11,
+								},
+							},
+							["amount"] = 11.03,
+						},
+						["Corals-EmeraldDream"] = {
+							["Details"] = {
+								["Hand of Light"] = {
+									["count"] = 0,
+								},
+								["Exorcism"] = {
+									["count"] = 0.74,
+								},
+								["Melee"] = {
+									["count"] = 3.06,
+								},
+								["Execution Sentence (DoT)"] = {
+									["count"] = 6.23,
+								},
+								["Judgment"] = {
+									["count"] = 0.15,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.68,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 8.04,
+								},
+								["Seal of Truth"] = {
+									["count"] = 0.08,
+								},
+							},
+							["amount"] = 18.98,
+						},
+					},
+					["Attacks"] = {
+						["Exorcism"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1860,
+									["min"] = 1860,
+									["count"] = 1,
+									["amount"] = 1860,
+								},
+								["Hit"] = {
+									["max"] = 6460,
+									["min"] = 4340,
+									["count"] = 2,
+									["amount"] = 10800,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 12660,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1610,
+									["min"] = 1610,
+									["count"] = 1,
+									["amount"] = 1610,
+								},
+								["Crit"] = {
+									["max"] = 8260,
+									["min"] = 7413,
+									["count"] = 2,
+									["amount"] = 15673,
+								},
+								["Hit"] = {
+									["max"] = 6178,
+									["min"] = 3758,
+									["count"] = 2,
+									["amount"] = 9936,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 27219,
+						},
+						["Judgment"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 1824,
+									["min"] = 1824,
+									["count"] = 1,
+									["amount"] = 1824,
+								},
+								["Hit"] = {
+									["max"] = 6337,
+									["min"] = 4257,
+									["count"] = 3,
+									["amount"] = 16581,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 18405,
+						},
+						["Hammer of Wrath"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 20560,
+									["min"] = 20560,
+									["count"] = 1,
+									["amount"] = 20560,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 20560,
+						},
+						["Execution Sentence (DoT)"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 2223,
+									["min"] = 150,
+									["count"] = 13,
+									["amount"] = 7508,
+								},
+								["Multistrike"] = {
+									["max"] = 515,
+									["min"] = 352,
+									["count"] = 3,
+									["amount"] = 1336,
+								},
+								["Tick"] = {
+									["max"] = 5189,
+									["min"] = 880,
+									["count"] = 10,
+									["amount"] = 16200,
+								},
+							},
+							["count"] = 26,
+							["amount"] = 25044,
+						},
+						["Templar's Verdict"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Hand of Light"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10124,
+									["min"] = 3110,
+									["count"] = 2,
+									["amount"] = 13234,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 13234,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6316,
+									["min"] = 6316,
+									["count"] = 1,
+									["amount"] = 6316,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6316,
+						},
+						["Censure (DoT)"] = {
+							["Details"] = {
+								["Multistrike"] = {
+									["max"] = 136,
+									["min"] = 136,
+									["count"] = 1,
+									["amount"] = 136,
+								},
+								["Absorb"] = {
+									["max"] = 272,
+									["min"] = 136,
+									["count"] = 4,
+									["amount"] = 816,
+								},
+								["Crit"] = {
+									["max"] = 710,
+									["min"] = 681,
+									["count"] = 3,
+									["amount"] = 2072,
+								},
+								["Tick"] = {
+									["max"] = 909,
+									["min"] = 224,
+									["count"] = 13,
+									["amount"] = 6639,
+								},
+							},
+							["count"] = 21,
+							["amount"] = 9663,
+						},
+						["Seal of Truth"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 285,
+									["min"] = 261,
+									["count"] = 2,
+									["amount"] = 546,
+								},
+								["Hit"] = {
+									["max"] = 1161,
+									["min"] = 610,
+									["count"] = 9,
+									["amount"] = 8140,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 8686,
+						},
+					},
+					["WhoDamaged"] = {
+						["Ashley-Sargeras"] = {
+							["Details"] = {
+								["Seal of Righteousness"] = {
+									["count"] = 22185,
+								},
+								["Judgment"] = {
+									["count"] = 32316,
+								},
+								["Hammer of Wrath"] = {
+									["count"] = 75710,
+								},
+								["Crusader Strike"] = {
+									["count"] = 12218,
+								},
+								["Divine Storm"] = {
+									["count"] = 32574,
+								},
+								["Hand of Light"] = {
+									["count"] = 67195,
+								},
+								["Melee"] = {
+									["count"] = 45977,
+								},
+								["Templar's Verdict"] = {
+									["count"] = 54277,
+								},
+								["Censure (DoT)"] = {
+									["count"] = 917,
+								},
+								["Seal of Truth"] = {
+									["count"] = 1412,
+								},
+							},
+							["amount"] = 344781,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 21,
+								},
+								["Hit"] = {
+									["count"] = 17,
+								},
+								["Multistrike"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 23,
+								},
+							},
+							["amount"] = 68,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 138889.143,
+			["LastActive"] = 138923.145,
+		},
+	},
+	["FightNum"] = 1,
+	["CombatTimes"] = {
+		{
+			138885.141, -- [1]
+			138928.147, -- [2]
+			"00:07:32", -- [3]
+			"00:08:15", -- [4]
+			"Ashley-Sargeras", -- [5]
+		}, -- [1]
+	},
+	["FoughtWho"] = {
+		"Ashley-Sargeras 00:07:32-00:08:15", -- [1]
+	},
+}

@@ -1,0 +1,50 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Schätz"] = {
+			["GUID"] = "Player-1129-07C999A9",
+			["type"] = "Self",
+			["GuardianReverseGUIDs"] = {
+				["Mirror Image"] = {
+					["LatestGuardian"] = 2,
+					["GUIDs"] = {
+						"Creature-0-1129-1116-4-31216-0000AA9ED1", -- [1]
+						"Creature-0-1129-1116-4-31216-00012A9ED1", -- [2]
+						[0] = "Creature-0-1129-1116-4-31216-00002A9ED1",
+					},
+				},
+				["Water Elemental"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "Pet-0-1129-1116-4-78116-020251432C",
+					},
+				},
+				["Frozen Orb"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "Creature-0-1129-1116-4-45322-00002A9D9D",
+					},
+				},
+			},
+			["Owner"] = false,
+			["enClass"] = "MAGE",
+			["Name"] = "Schätz",
+			["Pet"] = {
+				"Water Elemental <Schätz>", -- [1]
+				"Frozen Orb <Schätz>", -- [2]
+				"Mirror Image <Schätz>", -- [3]
+			},
+			["Fights"] = {
+			},
+			["level"] = 93,
+			["UnitLockout"] = 737263.238,
+			["LastFightIn"] = 0,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

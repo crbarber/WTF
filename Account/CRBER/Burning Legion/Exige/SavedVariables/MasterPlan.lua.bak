@@ -1,0 +1,10 @@
+
+MasterPlanPC = {
+	["version"] = "0.67",
+	["moE"] = 0.84,
+	["moC"] = 0,
+	["moN"] = 1,
+	["moV"] = 0.1344,
+	["complete"] = {
+	},
+}

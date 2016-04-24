@@ -1,0 +1,54 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip charge
+/cancelaura Bladestorm
+/cast Charge
+/cast Hamstring
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Intervene
+/targetAssistant Tigranes
+/cast Intervene
+/targetlasttarget
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip enraged regeneration
+/use healthstone
+/cast enraged regeneration
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Rallying Cry
+/cast Rallying Cry
+/use healthstone
+/cast Enraged Regeneration
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip bladestorm
+/use Primal Combatant's Badge of Victory
+/cast bladestorm
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip recklessness
+/use Primal Combatant's Badge of Victory
+/cast recklessness
+/cast Avatar
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [stance:1] Defensive Stance; Battle Stance
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Avatar
+/use Primal Combatant's Badge of Victory
+/cast Bladestorm
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Shield Barrier
+/use Defensive Stance
+/cast Shield Barrier
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=partner] Intervene
+/use [help] Intervene
+/cast [target=targettarget, help] Intervene
+END

@@ -1,0 +1,398 @@
+
+VExRT = {
+	["BattleRes"] = {
+	},
+	["ProfileKeys"] = {
+		["Naladu-BurningLegion"] = "default",
+	},
+	["Arrow"] = {
+		["Point1"] = "TOP",
+		["PointX"] = 32.9999198913574,
+		["Point2"] = "TOP",
+		["PointY"] = -206.999969482422,
+	},
+	["Encounter"] = {
+		["names"] = {
+			[1787] = "Kormrok",
+			[1798] = "Hellfire High Council",
+		},
+		["list"] = {
+			["Naladu"] = {
+				"6FBF145507211007E020Dadbruce-Maiev", -- [1]
+				"6FBF1455072332008020", -- [2]
+				"6FBF1455072517120020Kalrot-Maiev", -- [3]
+				"6FBF145507323810B120Kalrot-Maiev", -- [4]
+				"706F145507438420F120Cromintan-Maiev", -- [5]
+			},
+		},
+	},
+	["Marks"] = {
+		["list"] = {
+		},
+	},
+	["Coins"] = {
+		["list"] = {
+			"A188960Jonoki-Maiev1455073507", -- [1]
+			"8188960Rustyspoons-Maiev1455073507", -- [2]
+			"8188960Ilidhin-Maiev1455073508", -- [3]
+			"9188960Jerexyrd-Dunemaul1455073509", -- [4]
+			"!9124363Jerexyrd-Dunemaul1455073509:1:567:529", -- [5]
+			"3188960Ophunters-Stormrage1455073509", -- [6]
+			"5188960Understud-Maiev1455073509", -- [7]
+			"!5124180Understud-Maiev1455073509:2:562:567:529", -- [8]
+			"2188960Kalrot-Maiev1455073511", -- [9]
+			"3188960Proverbial-Maiev1455073514", -- [10]
+			"2188960Meadpally-Stormrage1455073517", -- [11]
+			"4188960Wachifor-Maiev1455073522", -- [12]
+			"B188960Dritzz-Maiev1455073522", -- [13]
+			"!B124261Dritzz-Maiev1455073522:1:567:529", -- [14]
+			"6188960Cromintan-Maiev1455073528", -- [15]
+			"3188960Lahnie-Maiev1455073529", -- [16]
+			"B188960Cuddlypaws-Maiev1455073534", -- [17]
+			"1188960Dadbruce-Maiev1455073539", -- [18]
+			"7188960Naladu1455073547", -- [19]
+			"3188960Micaman-Shandris1455073552", -- [20]
+			"3188961Proverbial-Maiev1455074912", -- [21]
+			"3188961Lahnie-Maiev1455074913", -- [22]
+			"!3124133Lahnie-Maiev1455074914:1:567:529", -- [23]
+			"B188961Dritzz-Maiev1455074914", -- [24]
+			"A188961Jonoki-Maiev1455074916", -- [25]
+			"9188961Jerexyrd-Dunemaul1455074917", -- [26]
+			"3188961Micaman-Shandris1455074920", -- [27]
+			"!3124133Micaman-Shandris1455074920:2:565:567:529", -- [28]
+			"3188961Sinsuna-Maiev1455074929", -- [29]
+			"3188961Ophunters-Stormrage1455074931", -- [30]
+			"!3124224Ophunters-Stormrage1455074932:1:567:529", -- [31]
+			"5188961Eulerr-Maiev1455074950", -- [32]
+			"8188961Ilidhin-Maiev1455074985", -- [33]
+		},
+	},
+	["ExCD2"] = {
+		["default_userDuration"] = {
+		},
+		["gnGUIDs"] = {
+			["Emilance-Darrowmere"] = 256,
+			["Sinsuna-Maiev"] = 254,
+			["Dadbruce-Maiev"] = 72,
+			["Jerexyrd-Dunemaul"] = 265,
+			["Micaman-Shandris"] = 254,
+			["Lahnie-Maiev"] = 254,
+			["Kalrot-Maiev"] = 66,
+			["Eulerr-Maiev"] = 257,
+			["Naladu"] = 264,
+			["Jonoki-Maiev"] = 268,
+			["Proverbial-Maiev"] = 254,
+			["Dritzz-Maiev"] = 102,
+			["Understud-Maiev"] = 256,
+			["Wachifor-Maiev"] = 260,
+			["Cuddlypaws-Maiev"] = 105,
+			["Cromintan-Maiev"] = 252,
+			["Meadpally-Stormrage"] = 70,
+			["Ophunters-Stormrage"] = 254,
+			["Ilidhin-Maiev"] = 64,
+			["Rustyspoons-Maiev"] = 64,
+		},
+		["NoRaid"] = true,
+		["CDECol"] = {
+		},
+		["default_userCD"] = {
+		},
+		["Save"] = {
+		},
+		["colSet"] = {
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [1]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [2]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [3]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [4]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [5]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [6]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [7]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [8]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [9]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [10]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [11]
+		},
+		["Priority"] = {
+		},
+		["CDE"] = {
+		},
+		["userDB"] = {
+		},
+	},
+	["Bossmods"] = {
+		["KormrokSetups"] = {
+		},
+		["Mannoroth"] = {
+		},
+		["Kormrok"] = {
+			[147] = "Jonoki",
+			[31] = "Jerexyrd-Dunemaul",
+			[38] = "Ilidhin",
+			[243] = "Micaman-Shandris",
+			[149] = "Naladu-BurningLegion",
+			[150] = "Dritzz",
+			[232] = "Cromintan",
+			[260] = "Ophunters-Stormrage",
+			[259] = "Sinsuna",
+			[250] = "Dritzz",
+			[47] = "Jonoki",
+			[247] = "Jonoki",
+			[63] = "Cuddlypaws",
+			[248] = "Lahnie",
+			[249] = "Naladu-BurningLegion",
+			[242] = "Wachifor",
+			[126] = "Proverbial",
+			[40] = "Emilance-Darrowmere",
+			[48] = "Lahnie",
+			[41] = "Dadbruce",
+			[133] = "Kalrot",
+			[125] = "Understud",
+			[140] = "Emilance-Darrowmere",
+			[159] = "Sinsuna",
+			["name"] = "Sinsuna-Maiev",
+			[49] = "Naladu-BurningLegion",
+			[236] = "Eulerr",
+			[160] = "Ophunters-Stormrage",
+			[225] = "Understud",
+			[25] = "Understud",
+			[29] = "Rustyspoons",
+			[132] = "Cromintan",
+			[42] = "Wachifor",
+			[50] = "Dritzz",
+			[263] = "Cuddlypaws",
+			[231] = "Jerexyrd-Dunemaul",
+			[229] = "Rustyspoons",
+			[226] = "Proverbial",
+			[163] = "Cuddlypaws",
+			[136] = "Eulerr",
+			[43] = "Micaman-Shandris",
+			[137] = "Meadpally-Stormrage",
+			[59] = "Sinsuna",
+			[138] = "Ilidhin",
+			[233] = "Kalrot",
+			[26] = "Proverbial",
+			[148] = "Lahnie",
+			[36] = "Eulerr",
+			[131] = "Jerexyrd-Dunemaul",
+			[141] = "Dadbruce",
+			[60] = "Ophunters-Stormrage",
+			[142] = "Wachifor",
+			[237] = "Meadpally-Stormrage",
+			[143] = "Micaman-Shandris",
+			[238] = "Ilidhin",
+			[37] = "Meadpally-Stormrage",
+			[32] = "Cromintan",
+			[240] = "Emilance-Darrowmere",
+			["time"] = 1455071966,
+			[241] = "Dadbruce",
+			[129] = "Rustyspoons",
+		},
+		["KormrokScale"] = 1,
+		["Kromog"] = {
+		},
+	},
+	["LegendaryRing"] = {
+		["enabled"] = true,
+		["ShowType"] = true,
+	},
+	["InspectViewer"] = {
+	},
+	["Addon"] = {
+		["Version"] = 3575,
+		["PreVersion"] = 0,
+		["IconMiniMapTop"] = -57.6256004533327,
+		["Timer"] = 0.1,
+		["IconMiniMapLeft"] = -55.4913522307113,
+	},
+	["Profiles"] = {
+	},
+	["BossWatcher"] = {
+		["fightsNum"] = 2,
+		["autoSegments"] = {
+		},
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+		["enabled"] = true,
+		["ilvl"] = true,
+	},
+	["Note"] = {
+		["BlackNames"] = {
+		},
+		["FontSize"] = 12,
+		["Black"] = {
+			"", -- [1]
+			"", -- [2]
+			"", -- [3]
+		},
+		["Height"] = 100,
+		["Strata"] = "HIGH",
+		["Width"] = 200,
+	},
+	["RaidCheck"] = {
+		["FlaskExp"] = 1,
+		["ReadyCheckFrameTimerFade"] = 4,
+	},
+	["Logging"] = {
+		["enabled"] = true,
+		["disableLFR"] = true,
+	},
+	["MarksBar"] = {
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+		},
+		["pulltimer"] = 10,
+	},
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 3,
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
+	},
+	["Timers"] = {
+	},
+}

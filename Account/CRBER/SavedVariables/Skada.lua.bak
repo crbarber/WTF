@@ -1,0 +1,27 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["hasUpgraded"] = true,
+	["profileKeys"] = {
+		["Naladu - Burning Legion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["y"] = -176.99976348877,
+					["mode"] = "Enemy damage taken",
+					["point"] = "RIGHT",
+					["x"] = -4,
+					["barwidth"] = 300,
+					["background"] = {
+						["height"] = 238,
+					},
+				}, -- [1]
+			},
+		},
+	},
+}

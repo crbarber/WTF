@@ -1,0 +1,8 @@
+
+GoldSave = {
+	["Naladu_Burning Legion::Alliance"] = {
+		["show"] = true,
+		["name"] = "Naladu",
+		["gold"] = 119751572,
+	},
+}

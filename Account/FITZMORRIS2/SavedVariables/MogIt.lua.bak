@@ -1,0 +1,27 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Krittic - Burning Legion"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.5.5",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = 0,
+			["y"] = 0,
+		},
+	},
+}
+MogItWishlist = {
+	["global"] = {
+		["version"] = 60200,
+	},
+	["profileKeys"] = {
+		["Krittic - Burning Legion"] = "Krittic - Burning Legion",
+	},
+	["profiles"] = {
+		["Krittic - Burning Legion"] = {
+		},
+	},
+}

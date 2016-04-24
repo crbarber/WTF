@@ -1,0 +1,9 @@
+
+MasterPlanAG = {
+	["Burning Legion"] = {
+		["Krittic"] = {
+			["class"] = "DRUID",
+			["faction"] = "Alliance",
+		},
+	},
+}

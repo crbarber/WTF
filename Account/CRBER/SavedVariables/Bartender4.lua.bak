@@ -1,0 +1,197 @@
+
+Bartender4DB = {
+	["namespaces"] = {
+		["ActionBars"] = {
+			["profiles"] = {
+				["Exige - Burning Legion"] = {
+					["actionbars"] = {
+						{
+							["clickthrough"] = true,
+							["alpha"] = 0.8,
+							["version"] = 3,
+							["padding"] = 6,
+							["hidehotkey"] = true,
+							["position"] = {
+								["x"] = -165.100003862381,
+								["point"] = "BOTTOM",
+								["scale"] = 0.649999976158142,
+								["y"] = 28.5999964714051,
+							},
+							["hidemacrotext"] = true,
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.499877929688,
+								["point"] = "CENTER",
+								["y"] = -227.499893188477,
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+								["y"] = 610,
+							},
+							["padding"] = 5,
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+								["y"] = 610,
+							},
+							["padding"] = 5,
+						}, -- [4]
+						{
+							["alpha"] = 0.8,
+							["version"] = 3,
+							["hidehotkey"] = true,
+							["position"] = {
+								["x"] = -165.100003862381,
+								["point"] = "BOTTOM",
+								["scale"] = 0.649999976158142,
+								["y"] = 81.988482328984,
+							},
+							["padding"] = 6,
+							["hidemacrotext"] = true,
+						}, -- [5]
+						{
+							["alpha"] = 0.8,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -165.100003862381,
+								["point"] = "BOTTOM",
+								["scale"] = 0.649999976158142,
+								["y"] = 54.7925997663424,
+							},
+							["padding"] = 6,
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+			},
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["ExtraActionBar"] = {
+			["profiles"] = {
+				["Exige - Burning Legion"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 101.599914550781,
+						["point"] = "BOTTOM",
+						["y"] = 137.638488769531,
+					},
+				},
+			},
+		},
+		["MicroMenu"] = {
+			["profiles"] = {
+				["Exige - Burning Legion"] = {
+					["enabled"] = false,
+					["version"] = 3,
+					["padding"] = -2,
+					["position"] = {
+						["x"] = 164.397064208984,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+						["y"] = 261.980041503906,
+					},
+				},
+			},
+		},
+		["XPBar"] = {
+		},
+		["BlizzardArt"] = {
+			["profiles"] = {
+				["Exige - Burning Legion"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -512,
+						["point"] = "BOTTOM",
+						["y"] = 47,
+					},
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Exige - Burning Legion"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -164.599975585938,
+						["point"] = "BOTTOM",
+						["y"] = 117.638488769531,
+					},
+				},
+			},
+		},
+		["BagBar"] = {
+			["profiles"] = {
+				["Exige - Burning Legion"] = {
+					["enabled"] = false,
+					["version"] = 3,
+					["position"] = {
+						["x"] = 345,
+						["point"] = "BOTTOM",
+						["y"] = 38.5,
+					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Exige - Burning Legion"] = {
+					["enabled"] = false,
+					["version"] = 3,
+					["position"] = {
+						["x"] = -2.9999988079071,
+						["point"] = "TOPLEFT",
+						["scale"] = 1,
+						["y"] = -20.72705078125,
+					},
+				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Exige - Burning Legion"] = {
+					["enabled"] = false,
+					["version"] = 3,
+					["position"] = {
+						["x"] = 251.221618652344,
+						["point"] = "BOTTOM",
+						["y"] = 35.9999961853027,
+					},
+					["visibility"] = {
+						["nocombat"] = true,
+					},
+				},
+			},
+		},
+		["RepBar"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Exige - Burning Legion"] = "Exige - Burning Legion",
+	},
+	["profiles"] = {
+		["Exige - Burning Legion"] = {
+			["focuscastmodifier"] = false,
+			["outofrange"] = "hotkey",
+		},
+	},
+}

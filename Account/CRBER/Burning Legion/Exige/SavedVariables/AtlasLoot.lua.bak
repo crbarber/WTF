@@ -1,0 +1,13 @@
+
+AtlasLootCharDB = {
+	["__addonrevision"] = 4325,
+	["MiniMapButton"] = {
+		["point"] = {
+			"CENTER", -- [1]
+			nil, -- [2]
+			"CENTER", -- [3]
+			-78.8246612548828, -- [4]
+			-13.6628656387329, -- [5]
+		},
+	},
+}

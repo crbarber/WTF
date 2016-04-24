@@ -1,0 +1,11 @@
+
+MasterPlanPC = {
+	["complete"] = {
+	},
+	["version"] = "0.70",
+	["moE"] = 2.89,
+	["moC"] = 3,
+	["moN"] = 4,
+	["moV"] = 0.6899,
+	["goldCollected"] = 2000000,
+}

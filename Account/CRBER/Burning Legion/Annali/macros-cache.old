@@ -1,0 +1,94 @@
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists] Healing Touch
+/cast Healing Touch
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus,exists] Skull Bash
+/cast Skull Bash
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists] Regrowth
+/cast Regrowth
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] cyclone
+/cast cyclone
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Celestial Alignment
+/cast Incarnation: Chosen of Elune
+END
+VER 3 010000000000000A " " "SPELL_NATURE_SPIRITARMOR"
+#showtooltip
+/cast [stance:1]Bear Form
+/cast [stance:2]Cat Form
+/cast [stance:3]Travel Form
+/cast [stance:4]Moonkin Form
+/cast [stance:5]Swift Flight Form
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+`
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists] Rejuvenation
+/cast Rejuvenation
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists] swiftmend
+/cast swiftmend
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+`
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod, @mouseover, exists] regrowth
+/cast [nomod] regrowth
+/cast [mod:shift, @mouseover] Nature's Cure
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip Lifebloom
+/use Tharbek's Lucky Pebble
+/cast [@mouseover, exists] lifebloom
+/cast lifebloom
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Stellar Flare
+/cast [mod:shift] Starfire
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Stellar Flare
+/cast [mod:shift] Wrath
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists] Ironbark
+/cast Ironbark
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Barkskin
+/use Healthstone
+END
+VER 3 0100000000000007 " " "SPELL_NATURE_SPIRITARMOR"
+#showtooltip
+/cast [stance:1]!Bear Form
+/cast [stance:2]!Cat Form
+/cast [stance:3]!Travel Form
+/cast [stance:4]!Moonkin Form
+/cast [stance:5]!Swift Flight Form
+END
+VER 3 0100000000000008 "Mini" "INV_MISC_QUESTIONMARK"
+#showtooltip Nature's Vigil
+/use Malevolent Gladiator's Badge of Conquest
+/cast Nature's Vigil
+END

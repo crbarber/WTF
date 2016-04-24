@@ -1,0 +1,12 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["Naladu - Burning Legion"] = "Naladu - Burning Legion",
+	},
+	["profiles"] = {
+		["Naladu - Burning Legion"] = {
+			["tagsVersion"] = 4,
+			["auraVersion"] = 1,
+		},
+	},
+}

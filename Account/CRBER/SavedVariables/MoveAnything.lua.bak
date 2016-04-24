@@ -1,0 +1,178 @@
+
+MADB = {
+	["noMMMW"] = true,
+	["characters"] = {
+	},
+	["alwaysShowNudger"] = false,
+	["tooltips"] = true,
+	["profiles"] = {
+		["default"] = {
+			["name"] = "default",
+			["frames"] = {
+				["ConsolidatedBuffsTooltip"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"UIParent", -- [2]
+						"TOPRIGHT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "ConsolidatedBuffsTooltip",
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"UIParent", -- [2]
+						"TOPRIGHT", -- [3]
+						0.000162261476350673, -- [4]
+						-0.00014272720228083, -- [5]
+					},
+				},
+				["PetDebuffsMover"] = {
+					["name"] = "PetDebuffsMover",
+				},
+				["VoiceChatTalkers"] = {
+					["orgPos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						0, -- [4]
+						120, -- [5]
+					},
+					["name"] = "VoiceChatTalkers",
+					["pos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						6.1035156250e-005, -- [4]
+						120, -- [5]
+					},
+				},
+				["ItemRefTooltip"] = {
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"UIParent", -- [2]
+						"CENTER", -- [3]
+						14, -- [4]
+						-180, -- [5]
+					},
+					["name"] = "ItemRefTooltip",
+					["pos"] = {
+						"CENTER", -- [1]
+						"UIParent", -- [2]
+						"CENTER", -- [3]
+						-771.000091075897, -- [4]
+						-236.999633789063, -- [5]
+					},
+				},
+				["ChatEditBoxesMover"] = {
+					["orgPos"] = {
+						"TOPLEFT", -- [1]
+						"ChatFrame1", -- [2]
+						"BOTTOMLEFT", -- [3]
+						-5, -- [4]
+						-2.00000023841858, -- [5]
+					},
+					["name"] = "ChatEditBoxesMover",
+					["scale"] = 1.04566592767865,
+					["orgScale"] = 1,
+					["pos"] = {
+						"TOPLEFT", -- [1]
+						"ChatFrame1", -- [2]
+						"BOTTOMLEFT", -- [3]
+						-35.3841474034238, -- [4]
+						-17.2134486202327, -- [5]
+					},
+				},
+				["ConsolidatedBuffs"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"BuffFrame", -- [2]
+						"TOPRIGHT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "ConsolidatedBuffs",
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"BuffFrame", -- [2]
+						"TOPRIGHT", -- [3]
+						209.999755859375, -- [4]
+						1.9998779296875, -- [5]
+					},
+				},
+				["FriendsFrame"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						-134.999984741211, -- [5]
+					},
+					["name"] = "FriendsFrame",
+					["UIPanelWindows"] = {
+						["whileDead"] = 1,
+						["pushable"] = 0,
+						["area"] = "left",
+					},
+					["pos"] = {
+						"BOTTOMLEFT", -- [1]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						2.00005388259888, -- [4]
+						243.999984741211, -- [5]
+					},
+				},
+				["PlayerBuffsMover"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"UIParent", -- [2]
+						"TOPRIGHT", -- [3]
+						-205, -- [4]
+						-13, -- [5]
+					},
+					["groups"] = {
+						false, -- [1]
+					},
+					["name"] = "PlayerBuffsMover",
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"UIParent", -- [2]
+						"TOPRIGHT", -- [3]
+						0.99951171875, -- [4]
+						-26.0001220703125, -- [5]
+					},
+				},
+				["ChatConfigFrame"] = {
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"UIParent", -- [2]
+						"CENTER", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "ChatConfigFrame",
+					["UIPanelWindows"] = {
+						["whileDead"] = 1,
+						["xoffset"] = -16,
+						["yoffset"] = 12,
+						["pushable"] = 0,
+						["area"] = "center",
+					},
+					["pos"] = {
+						"BOTTOMLEFT", -- [1]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						517.5, -- [4]
+						227.500015258789, -- [5]
+					},
+				},
+			},
+		},
+	},
+	["noBags"] = false,
+	["dontHookCreateFrame"] = true,
+	["closeGUIOnEscape"] = true,
+	["squareMM"] = true,
+	["playSound"] = false,
+	["disableErrorMessages"] = false,
+	["frameListRows"] = 14,
+}

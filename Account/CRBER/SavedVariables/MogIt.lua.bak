@@ -1,0 +1,40 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Exige - Burning Legion"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.5.5",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = -177.000076293945,
+			["minimap"] = {
+				["minimapPos"] = 133.976716380886,
+			},
+			["y"] = 102.999984741211,
+			["gridDress"] = "equipped",
+			["point"] = "RIGHT",
+			["previewProps"] = {
+				{
+					["y"] = 0,
+					["h"] = 384.999969482422,
+					["x"] = 0,
+				}, -- [1]
+			},
+			["gridHeight"] = 399.999969482422,
+		},
+	},
+}
+MogItWishlist = {
+	["global"] = {
+		["version"] = 60200,
+	},
+	["profileKeys"] = {
+		["Exige - Burning Legion"] = "Exige - Burning Legion",
+	},
+	["profiles"] = {
+		["Exige - Burning Legion"] = {
+		},
+	},
+}

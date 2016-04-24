@@ -1,0 +1,1744 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Esdare"] = {
+			["GUID"] = "Player-119-07922D86",
+			["LastEventHealth"] = {
+				"462 (100%)", -- [1]
+				"462 (100%)", -- [2]
+				"462 (100%)", -- [3]
+				"462 (100%)", -- [4]
+				"462 (100%)", -- [5]
+				"462 (100%)", -- [6]
+				"462 (100%)", -- [7]
+				"462 (100%)", -- [8]
+				"462 (100%)", -- [9]
+				"462 (100%)", -- [10]
+				"462 (100%)", -- [11]
+				"462 (100%)", -- [12]
+				"462 (100%)", -- [13]
+				"462 (100%)", -- [14]
+				"462 (100%)", -- [15]
+				"462 (100%)", -- [16]
+				"462 (100%)", -- [17]
+				"462 (100%)", -- [18]
+				"462 (100%)", -- [19]
+				"462 (100%)", -- [20]
+				"462 (100%)", -- [21]
+				"462 (100%)", -- [22]
+				"462 (100%)", -- [23]
+				"462 (100%)", -- [24]
+				"462 (100%)", -- [25]
+				"462 (100%)", -- [26]
+				"462 (100%)", -- [27]
+				"462 (100%)", -- [28]
+				"462 (100%)", -- [29]
+				"462 (100%)", -- [30]
+				"462 (100%)", -- [31]
+				"462 (100%)", -- [32]
+				"462 (100%)", -- [33]
+				"462 (100%)", -- [34]
+				"462 (100%)", -- [35]
+				"462 (100%)", -- [36]
+				"462 (100%)", -- [37]
+				"462 (100%)", -- [38]
+				"462 (100%)", -- [39]
+				"495 (100%)", -- [40]
+				"495 (100%)", -- [41]
+				"495 (100%)", -- [42]
+				"495 (100%)", -- [43]
+			},
+			["LastAttackedBy"] = "Volatile Mutation",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"HEAL", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"HEAL", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"HEAL", -- [17]
+				"HEAL", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"HEAL", -- [21]
+				"HEAL", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"HEAL", -- [25]
+				"HEAL", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"HEAL", -- [30]
+				"HEAL", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"HEAL", -- [35]
+				"HEAL", -- [36]
+				"DAMAGE", -- [37]
+				"HEAL", -- [38]
+				"HEAL", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+			},
+			["TimeWindows"] = {
+				["HealingTaken"] = {
+					4, -- [1]
+				},
+				["TimeHeal"] = {
+					0, -- [1]
+				},
+				["Overhealing"] = {
+					146, -- [1]
+				},
+				["ActiveTime"] = {
+					32.4, -- [1]
+				},
+				["TimeDamage"] = {
+					32.4, -- [1]
+				},
+				["Healing"] = {
+					4, -- [1]
+				},
+				["DamageTaken"] = {
+					4, -- [1]
+				},
+				["Damage"] = {
+					796, -- [1]
+				},
+			},
+			["enClass"] = "PALADIN",
+			["unit"] = "Esdare",
+			["level"] = 2,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 2,
+			["LastEventNum"] = {
+				[2] = 0.216450216450216,
+				[4] = 1.94805194805195,
+				[8] = 0.216450216450216,
+				[17] = 1.94805194805195,
+				[18] = 1.94805194805195,
+				[36] = 2.16450216450216,
+				[5] = 1.94805194805195,
+				[10] = 2.16450216450216,
+				[39] = 2.16450216450216,
+				[21] = 1.94805194805195,
+				[11] = 1.94805194805195,
+				[22] = 2.16450216450216,
+				[24] = 0.216450216450216,
+				[25] = 1.94805194805195,
+				[26] = 1.94805194805195,
+				[38] = 2.16450216450216,
+				[35] = 1.94805194805195,
+				[28] = 0.216450216450216,
+				[31] = 1.94805194805195,
+				[30] = 2.16450216450216,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 3,
+			["LastDamageTaken"] = 1,
+			["TimeLast"] = {
+				["TimeHeal"] = 21975.876,
+				["OVERALL"] = 22022.874,
+				["DamageTaken"] = 21975.876,
+				["HealingTaken"] = 21975.876,
+				["Overhealing"] = 21986.875,
+				["TimeDamage"] = 22022.874,
+				["Healing"] = 21975.876,
+				["ActiveTime"] = 22022.874,
+				["Damage"] = 22022.874,
+			},
+			["Owner"] = false,
+			["LastAbility"] = 22023.325,
+			["NextEventNum"] = 44,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				100, -- [21]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+			},
+			["LastEvents"] = {
+				"Esdare Melee Volatile Mutation Hit -44 (Physical)", -- [1]
+				"Volatile Mutation Melee Esdare Hit -1 (Physical)", -- [2]
+				"Esdare Crusader Strike Volatile Mutation Hit -46 (Physical)", -- [3]
+				"Esdare Swift Hand of Justice Esdare Hit +9 (8 overheal)", -- [4]
+				"Esdare Swift Hand of Justice Esdare Hit +9 (9 overheal)", -- [5]
+				"Esdare Gift of the Naaru Draenei Survivor Tick +18", -- [6]
+				"Esdare Gift of the Naaru Draenei Survivor Crit +37 (10 overheal)", -- [7]
+				"Volatile Mutation Melee Esdare Hit -1 (Physical)", -- [8]
+				"Esdare Crusader Strike Volatile Mutation Hit -53 (Physical)", -- [9]
+				"Esdare Swift Hand of Justice Esdare Hit +10 (9 overheal)", -- [10]
+				"Esdare Swift Hand of Justice Esdare Hit +9 (9 overheal)", -- [11]
+				"Esdare Gift of the Naaru Draenei Survivor Tick +18 (18 overheal)", -- [12]
+				"Esdare Gift of the Naaru Draenei Survivor Crit +37 (37 overheal)", -- [13]
+				"Esdare Gift of the Naaru Draenei Survivor Tick +19 (19 overheal)", -- [14]
+				"Esdare Melee Volatile Mutation Hit -41 (Physical)", -- [15]
+				"Esdare Crusader Strike Volatile Mutation Crit -91 (Physical)", -- [16]
+				"Esdare Swift Hand of Justice Esdare Hit +9 (9 overheal)", -- [17]
+				"Esdare Swift Hand of Justice Esdare Hit +9 (9 overheal)", -- [18]
+				"Esdare Melee Volatile Mutation Crit -84 (Physical)", -- [19]
+				"Volatile Mutation Melee Esdare Dodge (1)", -- [20]
+				"Esdare Swift Hand of Justice Esdare Hit +9 (9 overheal)", -- [21]
+				"Esdare Swift Hand of Justice Esdare Hit +10 (10 overheal)", -- [22]
+				"Esdare Melee Volatile Mutation Crit -78 (Physical)", -- [23]
+				"Volatile Mutation Melee Esdare Hit -1 (Physical)", -- [24]
+				"Esdare Swift Hand of Justice Esdare Hit +9 (8 overheal)", -- [25]
+				"Esdare Swift Hand of Justice Esdare Hit +9 (9 overheal)", -- [26]
+				"Esdare Melee Volatile Mutation Hit -39 (Physical)", -- [27]
+				"Volatile Mutation Melee Esdare Hit -1 (Physical)", -- [28]
+				"Esdare Crusader Strike Volatile Mutation Hit -44 (Physical)", -- [29]
+				"Esdare Swift Hand of Justice Esdare Hit +10 (9 overheal)", -- [30]
+				"Esdare Swift Hand of Justice Esdare Hit +9 (9 overheal)", -- [31]
+				"Esdare Melee Volatile Mutation Hit -41 (Physical)", -- [32]
+				"Volatile Mutation Melee Esdare Parry (1)", -- [33]
+				"Esdare Crusader Strike Volatile Mutation Hit -47 (Physical)", -- [34]
+				"Esdare Swift Hand of Justice Esdare Hit +9 (9 overheal)", -- [35]
+				"Esdare Swift Hand of Justice Esdare Hit +10 (10 overheal)", -- [36]
+				"Esdare Melee Volatile Mutation Crit -87 (Physical)", -- [37]
+				"Esdare Swift Hand of Justice Esdare Hit +10 (10 overheal)", -- [38]
+				"Esdare Swift Hand of Justice Esdare Hit +10 (10 overheal)", -- [39]
+				"Esdare Melee Training Dummy Hit -41 (Physical)", -- [40]
+				"Esdare Seal of Command Training Dummy Crit -8 (Holy)", -- [41]
+				"Esdare Crusader Strike Training Dummy Hit -48 (Physical)", -- [42]
+				"Esdare Seal of Command Training Dummy Hit -4 (Holy)", -- [43]
+			},
+			["Name"] = "Esdare",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				false, -- [3]
+				true, -- [4]
+				true, -- [5]
+				false, -- [6]
+				false, -- [7]
+				true, -- [8]
+				false, -- [9]
+				true, -- [10]
+				true, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				true, -- [17]
+				true, -- [18]
+				false, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				false, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				false, -- [27]
+				true, -- [28]
+				false, -- [29]
+				true, -- [30]
+				true, -- [31]
+				false, -- [32]
+				true, -- [33]
+				false, -- [34]
+				true, -- [35]
+				true, -- [36]
+				false, -- [37]
+				true, -- [38]
+				true, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+			},
+			["LastEventTimes"] = {
+				21940.359, -- [1]
+				21940.359, -- [2]
+				21940.359, -- [3]
+				21940.359, -- [4]
+				21940.359, -- [5]
+				21946.076, -- [6]
+				21947.775, -- [7]
+				21947.893, -- [8]
+				21947.893, -- [9]
+				21947.893, -- [10]
+				21947.893, -- [11]
+				21948.109, -- [12]
+				21949.159, -- [13]
+				21950.109, -- [14]
+				21951.609, -- [15]
+				21952.909, -- [16]
+				21952.909, -- [17]
+				21952.909, -- [18]
+				21955.426, -- [19]
+				21955.426, -- [20]
+				21955.426, -- [21]
+				21955.426, -- [22]
+				21971.775, -- [23]
+				21971.775, -- [24]
+				21971.775, -- [25]
+				21971.775, -- [26]
+				21976.275, -- [27]
+				21976.275, -- [28]
+				21976.275, -- [29]
+				21976.275, -- [30]
+				21976.275, -- [31]
+				21984.309, -- [32]
+				21984.309, -- [33]
+				21984.309, -- [34]
+				21984.309, -- [35]
+				21984.309, -- [36]
+				21987.875, -- [37]
+				21987.875, -- [38]
+				21987.875, -- [39]
+				22022.742, -- [40]
+				22022.742, -- [41]
+				22023.325, -- [42]
+				22023.325, -- [43]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 87,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 87,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 87,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 87,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 20,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 20,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 20,
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 3.5,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 87,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 87,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 87,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["TimeHealing"] = {
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 18,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 18,
+						},
+					},
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Crusader Strike"] = {
+									["count"] = 1.3,
+								},
+							},
+							["amount"] = 4.8,
+						},
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 0,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 4.8,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["Damage"] = 132,
+					["TimeHeal"] = 0,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Overhealing"] = 18,
+					["WhoHealed"] = {
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["HealedWho"] = {
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 41,
+						["Physical"] = 91,
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 41,
+								},
+								["Crusader Strike"] = {
+									["count"] = 91,
+								},
+							},
+							["amount"] = 132,
+						},
+					},
+					["TimeDamage"] = 4.8,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Crusader Strike"] = {
+									["count"] = 1.3,
+								},
+							},
+							["amount"] = 4.8,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 41,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 41,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 41,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 91,
+									["min"] = 91,
+									["count"] = 1,
+									["amount"] = 91,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 91,
+						},
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 101,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Holy"] = 12,
+						["Melee"] = 41,
+						["Physical"] = 48,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Seal of Command"] = {
+									["count"] = 12,
+								},
+								["Melee"] = {
+									["count"] = 41,
+								},
+								["Crusader Strike"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 101,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.58,
+								},
+							},
+							["amount"] = 4.08,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 4.08,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Seal of Command"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 8,
+									["min"] = 8,
+									["count"] = 1,
+									["amount"] = 8,
+								},
+								["Hit"] = {
+									["max"] = 4,
+									["min"] = 4,
+									["count"] = 1,
+									["amount"] = 4,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 12,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 41,
+									["min"] = 41,
+									["count"] = 1,
+									["amount"] = 41,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 41,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 48,
+									["min"] = 48,
+									["count"] = 1,
+									["amount"] = 48,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 48,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 4.08,
+					["TimeDamaging"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.58,
+								},
+							},
+							["amount"] = 4.08,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 101,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Holy"] = 12,
+						["Melee"] = 41,
+						["Physical"] = 48,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Seal of Command"] = {
+									["count"] = 12,
+								},
+								["Melee"] = {
+									["count"] = 41,
+								},
+								["Crusader Strike"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 101,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.58,
+								},
+							},
+							["amount"] = 4.08,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 4.08,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Seal of Command"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 8,
+									["min"] = 8,
+									["count"] = 1,
+									["amount"] = 8,
+								},
+								["Hit"] = {
+									["max"] = 4,
+									["min"] = 4,
+									["count"] = 1,
+									["amount"] = 4,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 12,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 41,
+									["min"] = 41,
+									["count"] = 1,
+									["amount"] = 41,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 41,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 48,
+									["min"] = 48,
+									["count"] = 1,
+									["amount"] = 48,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 48,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 4.08,
+					["TimeDamaging"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.58,
+								},
+							},
+							["amount"] = 4.08,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 8,
+									["count"] = 16,
+									["amount"] = 146,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 146,
+						},
+					},
+					["TimeSpent"] = {
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.58,
+								},
+							},
+							["amount"] = 4.08,
+						},
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 23.52,
+								},
+								["Crusader Strike"] = {
+									["count"] = 4.8,
+								},
+							},
+							["amount"] = 28.32,
+						},
+					},
+					["DamageTaken"] = 4,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 32.4,
+					["ElementTaken"] = {
+						["Melee"] = 4,
+					},
+					["Damage"] = 796,
+					["TimeHeal"] = 0,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["Overhealing"] = 146,
+					["WhoHealed"] = {
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["Healing"] = 4,
+					["HealedWho"] = {
+						["Esdare"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1,
+									["min"] = 1,
+									["count"] = 4,
+									["amount"] = 4,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 4,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 329,
+						["Melee"] = 455,
+						["Holy"] = 12,
+					},
+					["HealingTaken"] = 4,
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 414,
+								},
+								["Crusader Strike"] = {
+									["count"] = 281,
+								},
+							},
+							["amount"] = 695,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Seal of Command"] = {
+									["count"] = 12,
+								},
+								["Melee"] = {
+									["count"] = 41,
+								},
+								["Crusader Strike"] = {
+									["count"] = 48,
+								},
+							},
+							["amount"] = 101,
+						},
+					},
+					["TimeDamage"] = 32.4,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 23.52,
+								},
+								["Crusader Strike"] = {
+									["count"] = 4.8,
+								},
+							},
+							["amount"] = 28.32,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.58,
+								},
+							},
+							["amount"] = 4.08,
+						},
+					},
+					["Attacks"] = {
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 91,
+									["min"] = 91,
+									["count"] = 1,
+									["amount"] = 91,
+								},
+								["Hit"] = {
+									["max"] = 53,
+									["min"] = 44,
+									["count"] = 5,
+									["amount"] = 238,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 329,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 87,
+									["min"] = 78,
+									["count"] = 3,
+									["amount"] = 249,
+								},
+								["Hit"] = {
+									["max"] = 44,
+									["min"] = 39,
+									["count"] = 5,
+									["amount"] = 206,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 455,
+						},
+						["Seal of Command"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 8,
+									["min"] = 8,
+									["count"] = 1,
+									["amount"] = 8,
+								},
+								["Hit"] = {
+									["max"] = 4,
+									["min"] = 4,
+									["count"] = 1,
+									["amount"] = 4,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 12,
+						},
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 21939.876,
+			["LastActive"] = 22022.874,
+		},
+	},
+	["FightNum"] = 3,
+	["CombatTimes"] = {
+		{
+			21950.876, -- [1]
+			21954.877, -- [2]
+			"21:42:48", -- [3]
+			"21:42:52", -- [4]
+			"Volatile Mutation", -- [5]
+		}, -- [1]
+		{
+			21986.875, -- [1]
+			21989.876, -- [2]
+			"21:43:25", -- [3]
+			"21:43:27", -- [4]
+			"Volatile Mutation", -- [5]
+		}, -- [2]
+		{
+			22021.875, -- [1]
+			22029.874, -- [2]
+			"21:43:59", -- [3]
+			"21:44:07", -- [4]
+			"Training Dummy", -- [5]
+		}, -- [3]
+	},
+	["FoughtWho"] = {
+		"Training Dummy 21:43:59-21:44:07", -- [1]
+		"Volatile Mutation 21:43:25-21:43:27", -- [2]
+		"Volatile Mutation 21:42:48-21:42:52", -- [3]
+	},
+}

@@ -1,0 +1,5 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [stance1] Defensive Stance
+/cast [stance2] Battle Stance
+END

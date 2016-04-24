@@ -1,0 +1,59 @@
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Scorch
+/cancelaura Ice Block
+/cast Lifeblood
+/cast Scorch
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+/focus
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Counterspell
+/cancelaura Ice Block
+/stopcasting
+/cast Counterspell
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Frostbolt
+/cast Lifeblood
+/cast Frostbolt
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Freeze
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Arcane Blast
+/cast Lifeblood
+/cast Arcane Blast
+END
+VER 3 0100000000000004 " Pyro" "INV_MISC_QUESTIONMARK"
+#showtooltip Alter Time
+/cancelaura Ice block
+/use Potion of the Jade Serpent
+/use Malevolent Gladiator's Badge of Dominance
+/castsequence [reset=10] Alter Time, Pyroblast
+END
+VER 3 010000000000000A "Arch" "INV_MISC_QUESTIONMARK"
+#showtooltip Alter Time
+/cancelaura Ice block
+/use Potion of the Jade Serpent
+/use Malevolent Gladiator's Badge of Dominance
+/cast Alter Time
+END
+VER 3 0100000000000006 "Focus" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Polymorph
+/cast Polymorph
+END
+VER 3 010000000000000B "Trink" "INV_MISC_QUESTIONMARK"
+#showtooltip Icy Veins
+/use Tyrannical Gladiator's Badge of Dominance
+/cast Icy Veins
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Sch[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

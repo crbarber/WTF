@@ -1,0 +1,2 @@
+ShamanFriend: disabled
+PitBull4: disabled

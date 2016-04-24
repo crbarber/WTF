@@ -1,0 +1,4 @@
+ShamanFriend: disabled
+FloTotemBar: disabled
+DBM-StatusBarTimers: enabled
+DBM-Interrupts: disabled

@@ -1,0 +1,50 @@
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooptip 
+/cast Bladestorm
+/cast Sweeping Strikes(Battle, Berserker Stance)
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Deadly Calm
+/use Figurine - King of Boars
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Recklessness
+/use Magnetite Mirror
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Spell Reflection
+/equip [mod:shift] Rockslicer
+/equip [nomod] Dragonshrine Scepter
+/equip [nomod] Stonewrought Shield of the Bouldercrag
+/cast [nomod] Spell Reflection
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shield Block(Defensive Stance)
+/use Za'brox's Lucky Tooth
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/equip [mod:shift] 
+r
+/equip [nomod] Dragonshrine Scepter
+/equip [nomod] Stonewrought Shield of the Bouldercrag
+/cast [nomod] Spell Reflection
+/cast Shield Wall
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Colossus Smash(Battle, Berserker Stance)
+/use Cataclysmic Gladiator's Badge of Victory
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Deadly Calm
+/use Cataclysmic Gladiator's Badge of Victory
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooptip Intercept
+/cast [nocombat,stance:1] Charge; [combat,nostance:3] Berserker Stance; [nocombat,nostance:1] Battle Stance; [combat,stance:3] Intercept
+END

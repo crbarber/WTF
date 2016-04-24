@@ -1,0 +1,89 @@
+
+Quartz3DB = {
+	["namespaces"] = {
+		["Swing"] = {
+			["profiles"] = {
+				["Default"] = {
+					["y"] = -42.5751953125,
+					["x"] = 681,
+					["swingposition"] = "free",
+				},
+			},
+		},
+		["Buff"] = {
+		},
+		["Interrupt"] = {
+		},
+		["Flight"] = {
+		},
+		["Pet"] = {
+			["profiles"] = {
+				["Default"] = {
+					["x"] = 468.000091552734,
+					["y"] = 0,
+				},
+			},
+		},
+		["EnemyCasts"] = {
+		},
+		["Player"] = {
+			["profiles"] = {
+				["Default"] = {
+					["w"] = 320,
+					["y"] = 82.9994812011719,
+					["x"] = 674.999938964844,
+				},
+			},
+		},
+		["GCD"] = {
+			["profiles"] = {
+				["Default"] = {
+					["y"] = 120,
+					["gcdposition"] = "free",
+					["sparkcolor"] = {
+						0.992156862745098, -- [1]
+						0.968627450980392, -- [2]
+						nil, -- [3]
+						1, -- [4]
+					},
+					["gcdheight"] = 7,
+					["x"] = 680,
+					["gcdgap"] = -12,
+				},
+			},
+		},
+		["Focus"] = {
+			["profiles"] = {
+				["Default"] = {
+					["y"] = 360.000183105469,
+					["x"] = 7.99987888336182,
+				},
+			},
+		},
+		["Target"] = {
+			["profiles"] = {
+				["Default"] = {
+					["y"] = 252.000335693359,
+					["x"] = 1018,
+				},
+			},
+		},
+		["Range"] = {
+		},
+		["Mirror"] = {
+		},
+		["Latency"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Exige - Burning Legion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["Buff"] = false,
+			},
+			["hidesamwise"] = false,
+		},
+	},
+}

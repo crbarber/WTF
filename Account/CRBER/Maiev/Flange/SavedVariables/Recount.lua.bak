@@ -1,0 +1,34 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Flange"] = {
+			["GUID"] = "Player-119-0790B194",
+			["type"] = "Self",
+			["GuardianReverseGUIDs"] = {
+				["Tarloz"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "Creature-0-9-0-41-416-0000682FB4",
+					},
+				},
+			},
+			["Owner"] = false,
+			["enClass"] = "WARLOCK",
+			["Name"] = "Flange",
+			["Pet"] = {
+				"Tarloz <Flange>", -- [1]
+			},
+			["Fights"] = {
+			},
+			["level"] = 1,
+			["UnitLockout"] = 60313.286,
+			["LastFightIn"] = 0,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

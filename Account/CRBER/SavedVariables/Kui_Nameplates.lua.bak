@@ -1,0 +1,28 @@
+
+KuiNameplatesGDB = {
+	["namespaces"] = {
+		["CastBar"] = {
+		},
+		["LowHealthColours"] = {
+		},
+		["CastWarnings"] = {
+		},
+		["TankMode"] = {
+		},
+		["Auras"] = {
+		},
+		["NemesisHelper"] = {
+		},
+		["ComboPoints"] = {
+		},
+		["ClassColours"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Naladu - Burning Legion"] = "Naladu - Burning Legion",
+	},
+	["profiles"] = {
+		["Naladu - Burning Legion"] = {
+		},
+	},
+}

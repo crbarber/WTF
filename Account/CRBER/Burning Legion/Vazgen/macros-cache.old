@@ -1,0 +1,10 @@
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [flyable] Blue Dragonhawk
+/cast Dreadsteed
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Dark Soul
+/use Warmongering Combatant's Badge of Dominance
+/cast Dark Soul
+END

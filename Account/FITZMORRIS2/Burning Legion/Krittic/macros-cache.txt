@@ -1,0 +1,19 @@
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Skull Bash
+/cast Tiger's Fury
+/cast Skull Bash
+END
+VER 3 0100000000000002 "CD" "INV_MISC_QUESTIONMARK"
+#showtooltip Berserk
+/cast Incarnation: King of the Jungle
+/use Warmongering Combatant's Badge of Conquest
+/cast Berserk
+/cast Tiger's Fury
+END
+VER 3 0100000000000001 "PowerShift" "INV_MISC_QUESTIONMARK"
+/showtooltip Claws of Shirvallah
+/cast [stance:1] !Bear Form
+/cast [stance:2] !Cat Form
+/cast [stance:3] !Travel Form
+/cast [stance:0] Cat Form
+END

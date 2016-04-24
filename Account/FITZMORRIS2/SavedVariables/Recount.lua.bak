@@ -1,0 +1,29 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Krittic - Burning Legion"] = "Krittic - Burning Legion",
+	},
+	["profiles"] = {
+		["Krittic - Burning Legion"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 3.05175781250e-005,
+					["w"] = 139.999969482422,
+					["h"] = 199.999984741211,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["MainWindowVis"] = false,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

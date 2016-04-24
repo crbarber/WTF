@@ -1,0 +1,1319 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Schätz"] = {
+			["GUID"] = "Player-119-07919D9A",
+			["LastEventHealth"] = {
+				"406 (100%)", -- [1]
+				"406 (100%)", -- [2]
+				"406 (100%)", -- [3]
+				"406 (100%)", -- [4]
+				"406 (100%)", -- [5]
+				"406 (100%)", -- [6]
+				"406 (100%)", -- [7]
+				"406 (100%)", -- [8]
+				"406 (100%)", -- [9]
+				"406 (100%)", -- [10]
+				"406 (100%)", -- [11]
+				"406 (100%)", -- [12]
+				"406 (100%)", -- [13]
+				"406 (100%)", -- [14]
+				"406 (100%)", -- [15]
+				"420 (100%)", -- [16]
+				"420 (100%)", -- [17]
+				"420 (100%)", -- [18]
+				"419 (99%)", -- [19]
+				"419 (99%)", -- [20]
+				"419 (99%)", -- [21]
+				"419 (99%)", -- [22]
+				"419 (99%)", -- [23]
+				"418 (99%)", -- [24]
+				"418 (99%)", -- [25]
+				"418 (99%)", -- [26]
+				"418 (99%)", -- [27]
+				"418 (99%)", -- [28]
+				"418 (99%)", -- [29]
+				"418 (99%)", -- [30]
+				"418 (99%)", -- [31]
+				"420 (100%)", -- [32]
+				"420 (100%)", -- [33]
+				"420 (100%)", -- [34]
+				"420 (100%)", -- [35]
+				"420 (100%)", -- [36]
+				"419 (99%)", -- [37]
+				"400 (95%)", -- [38]
+			},
+			["LastAttackedBy"] = "Environment",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"DAMAGE", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"DAMAGE", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"DAMAGE", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"DAMAGE", -- [13]
+				"HEAL", -- [14]
+				"HEAL", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+			},
+			["TimeWindows"] = {
+				["Overhealing"] = {
+					81, -- [1]
+				},
+				["ActiveTime"] = {
+					32.32, -- [1]
+				},
+				["TimeDamage"] = {
+					32.32, -- [1]
+				},
+				["DamageTaken"] = {
+					24, -- [1]
+				},
+				["Damage"] = {
+					1216, -- [1]
+				},
+			},
+			["enClass"] = "WARRIOR",
+			["unit"] = "Schätz",
+			["level"] = 1,
+			["LastDamageAbility"] = "Falling",
+			["LastFightIn"] = 2,
+			["LastEventNum"] = {
+				nil, -- [1]
+				1.97044334975369, -- [2]
+				2.21674876847291, -- [3]
+				nil, -- [4]
+				1.97044334975369, -- [5]
+				1.97044334975369, -- [6]
+				nil, -- [7]
+				1.97044334975369, -- [8]
+				1.97044334975369, -- [9]
+				nil, -- [10]
+				1.97044334975369, -- [11]
+				1.97044334975369, -- [12]
+				nil, -- [13]
+				1.97044334975369, -- [14]
+				1.97044334975369, -- [15]
+				[36] = 0.238095238095238,
+				[17] = 0.238095238095238,
+				[38] = 4.76190476190476,
+				[22] = 0.238095238095238,
+				[30] = 0.238095238095238,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 2,
+			["LastDamageTaken"] = 20,
+			["TimeLast"] = {
+				["Overhealing"] = 4455.442,
+				["ActiveTime"] = 4493.441,
+				["TimeDamage"] = 4493.441,
+				["OVERALL"] = 4531.44,
+				["DamageTaken"] = 4531.44,
+				["Damage"] = 4493.441,
+			},
+			["Owner"] = false,
+			["LastAbility"] = 4494.34,
+			["NextEventNum"] = 39,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				99.7619047619048, -- [19]
+				99.7619047619048, -- [20]
+				99.7619047619048, -- [21]
+				99.7619047619048, -- [22]
+				99.7619047619048, -- [23]
+				99.5238095238095, -- [24]
+				99.5238095238095, -- [25]
+				99.5238095238095, -- [26]
+				99.5238095238095, -- [27]
+				99.5238095238095, -- [28]
+				99.5238095238095, -- [29]
+				99.5238095238095, -- [30]
+				99.5238095238095, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				99.7619047619048, -- [37]
+				95.2380952380952, -- [38]
+			},
+			["LastEvents"] = {
+				"Schätz Melee Training Target Crit -95 (Physical)", -- [1]
+				"Schätz Swift Hand of Justice Schätz Hit +8 (8 overheal)", -- [2]
+				"Schätz Swift Hand of Justice Schätz Hit +9 (9 overheal)", -- [3]
+				"Schätz Melee Training Target Hit -45 (Physical)", -- [4]
+				"Schätz Swift Hand of Justice Schätz Hit +8 (8 overheal)", -- [5]
+				"Schätz Swift Hand of Justice Schätz Hit +8 (8 overheal)", -- [6]
+				"Schätz Melee Training Target Crit -95 (Physical)", -- [7]
+				"Schätz Swift Hand of Justice Schätz Hit +8 (8 overheal)", -- [8]
+				"Schätz Swift Hand of Justice Schätz Hit +8 (8 overheal)", -- [9]
+				"Schätz Melee Training Target Hit -50 (Physical)", -- [10]
+				"Schätz Swift Hand of Justice Schätz Hit +8 (8 overheal)", -- [11]
+				"Schätz Swift Hand of Justice Schätz Hit +8 (8 overheal)", -- [12]
+				"Schätz Heroic Strike Training Target Hit -47 (Physical)", -- [13]
+				"Schätz Swift Hand of Justice Schätz Hit +8 (8 overheal)", -- [14]
+				"Schätz Swift Hand of Justice Schätz Hit +8 (8 overheal)", -- [15]
+				"Schätz Melee Tushui Trainee Hit -48 (Physical)", -- [16]
+				"Tushui Trainee Melee Schätz Hit -1 (Physical)", -- [17]
+				"Schätz Heroic Strike Tushui Trainee Crit -109 (Physical)", -- [18]
+				"Tushui Trainee Melee Schätz Parry (1)", -- [19]
+				"Schätz Heroic Strike Tushui Trainee Hit -54 (Physical)", -- [20]
+				"Schätz Melee Tushui Trainee Hit -50 (Physical)", -- [21]
+				"Tushui Trainee Melee Schätz Hit -1 (Physical)", -- [22]
+				"Schätz Heroic Strike Tushui Trainee Hit -52 (Physical)", -- [23]
+				"Schätz Melee Tushui Trainee Hit -48 (Physical)", -- [24]
+				"Tushui Trainee Melee Schätz Parry (1)", -- [25]
+				"Tushui Trainee Melee Schätz Miss (1)", -- [26]
+				"Schätz Heroic Strike Tushui Trainee Crit -108 (Physical)", -- [27]
+				"Schätz Melee Tushui Trainee Hit -52 (Physical)", -- [28]
+				"Schätz Melee Tushui Trainee Hit -53 (Physical)", -- [29]
+				"Tushui Trainee Melee Schätz Hit -1 (Physical)", -- [30]
+				"Schätz Heroic Strike Tushui Trainee Hit -48 (Physical)", -- [31]
+				"Schätz Melee Tushui Trainee Hit -53 (Physical)", -- [32]
+				"Tushui Trainee Melee Schätz Parry (1)", -- [33]
+				"Schätz Heroic Strike Tushui Trainee Hit -54 (Physical)", -- [34]
+				"Schätz Melee Tushui Trainee Hit -53 (Physical)", -- [35]
+				"Tushui Trainee Melee Schätz Hit -1 (Physical)", -- [36]
+				"Schätz Heroic Strike Tushui Trainee Crit -102 (Physical)", -- [37]
+				"Environment Falling Schätz Hit -20 (Physical)", -- [38]
+			},
+			["Name"] = "Schätz",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				true, -- [3]
+				false, -- [4]
+				true, -- [5]
+				true, -- [6]
+				false, -- [7]
+				true, -- [8]
+				true, -- [9]
+				false, -- [10]
+				true, -- [11]
+				true, -- [12]
+				false, -- [13]
+				true, -- [14]
+				true, -- [15]
+				false, -- [16]
+				true, -- [17]
+				false, -- [18]
+				true, -- [19]
+				false, -- [20]
+				false, -- [21]
+				true, -- [22]
+				false, -- [23]
+				false, -- [24]
+				true, -- [25]
+				true, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				true, -- [30]
+				false, -- [31]
+				false, -- [32]
+				true, -- [33]
+				false, -- [34]
+				false, -- [35]
+				true, -- [36]
+				false, -- [37]
+				true, -- [38]
+			},
+			["LastEventTimes"] = {
+				4446.374, -- [1]
+				4446.374, -- [2]
+				4446.374, -- [3]
+				4449.224, -- [4]
+				4449.224, -- [5]
+				4449.224, -- [6]
+				4452.107, -- [7]
+				4452.107, -- [8]
+				4452.107, -- [9]
+				4454.974, -- [10]
+				4454.974, -- [11]
+				4454.974, -- [12]
+				4456.224, -- [13]
+				4456.224, -- [14]
+				4456.224, -- [15]
+				4478.874, -- [16]
+				4478.874, -- [17]
+				4478.874, -- [18]
+				4481.19, -- [19]
+				4481.19, -- [20]
+				4481.741, -- [21]
+				4482.824, -- [22]
+				4482.824, -- [23]
+				4484.624, -- [24]
+				4484.824, -- [25]
+				4486.124, -- [26]
+				4486.124, -- [27]
+				4486.274, -- [28]
+				4489.14, -- [29]
+				4489.14, -- [30]
+				4489.24, -- [31]
+				4492.157, -- [32]
+				4492.157, -- [33]
+				4492.357, -- [34]
+				4494.091, -- [35]
+				4494.091, -- [36]
+				4494.34, -- [37]
+				4531.656, -- [38]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 64,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 64,
+						},
+					},
+					["TimeSpent"] = {
+						["Training Target"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 8.6,
+								},
+								["Heroic Strike"] = {
+									["count"] = 1.25,
+								},
+							},
+							["amount"] = 9.85,
+						},
+					},
+					["Overhealing"] = 64,
+					["ElementDone"] = {
+						["Melee"] = 190,
+						["Physical"] = 47,
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DamagedWho"] = {
+						["Training Target"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 190,
+								},
+								["Heroic Strike"] = {
+									["count"] = 47,
+								},
+							},
+							["amount"] = 237,
+						},
+					},
+					["TimeDamage"] = 9.85,
+					["TimeDamaging"] = {
+						["Training Target"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 8.6,
+								},
+								["Heroic Strike"] = {
+									["count"] = 1.25,
+								},
+							},
+							["amount"] = 9.85,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 95,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 95,
+								},
+								["Hit"] = {
+									["max"] = 50,
+									["min"] = 45,
+									["count"] = 2,
+									["amount"] = 95,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 190,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 47,
+									["min"] = 47,
+									["count"] = 1,
+									["amount"] = 47,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 47,
+						},
+					},
+					["ActiveTime"] = 9.85,
+					["Damage"] = 237,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 4,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Parry"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 4,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 884,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 357,
+						["Physical"] = 527,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 357,
+								},
+								["Heroic Strike"] = {
+									["count"] = 527,
+								},
+							},
+							["amount"] = 884,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 13.52,
+								},
+								["Heroic Strike"] = {
+									["count"] = 5.45,
+								},
+							},
+							["amount"] = 18.97,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 18.97,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 53,
+									["min"] = 48,
+									["count"] = 7,
+									["amount"] = 357,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 357,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 109,
+									["min"] = 102,
+									["count"] = 3,
+									["amount"] = 319,
+								},
+								["Hit"] = {
+									["max"] = 54,
+									["min"] = 48,
+									["count"] = 4,
+									["amount"] = 208,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 527,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 18.97,
+					["TimeDamaging"] = {
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 13.52,
+								},
+								["Heroic Strike"] = {
+									["count"] = 5.45,
+								},
+							},
+							["amount"] = 18.97,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 4,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Parry"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 4,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 884,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 357,
+						["Physical"] = 527,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 357,
+								},
+								["Heroic Strike"] = {
+									["count"] = 527,
+								},
+							},
+							["amount"] = 884,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 13.52,
+								},
+								["Heroic Strike"] = {
+									["count"] = 5.45,
+								},
+							},
+							["amount"] = 18.97,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 18.97,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 53,
+									["min"] = 48,
+									["count"] = 7,
+									["amount"] = 357,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 357,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 109,
+									["min"] = 102,
+									["count"] = 3,
+									["amount"] = 319,
+								},
+								["Hit"] = {
+									["max"] = 54,
+									["min"] = 48,
+									["count"] = 4,
+									["amount"] = 208,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 527,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 18.97,
+					["TimeDamaging"] = {
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 13.52,
+								},
+								["Heroic Strike"] = {
+									["count"] = 5.45,
+								},
+							},
+							["amount"] = 18.97,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 8,
+									["count"] = 10,
+									["amount"] = 81,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 81,
+						},
+					},
+					["TimeSpent"] = {
+						["Training Target"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 12.1,
+								},
+								["Heroic Strike"] = {
+									["count"] = 1.25,
+								},
+							},
+							["amount"] = 13.35,
+						},
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 13.52,
+								},
+								["Heroic Strike"] = {
+									["count"] = 5.45,
+								},
+							},
+							["amount"] = 18.97,
+						},
+					},
+					["DamageTaken"] = 24,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 8,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["Overhealing"] = 81,
+					["ActiveTime"] = 32.32,
+					["ElementTaken"] = {
+						["Melee"] = 4,
+						["Physical"] = 20,
+					},
+					["Damage"] = 1216,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Parry"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 642,
+						["Physical"] = 574,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Training Target"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 285,
+								},
+								["Heroic Strike"] = {
+									["count"] = 47,
+								},
+							},
+							["amount"] = 332,
+						},
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 357,
+								},
+								["Heroic Strike"] = {
+									["count"] = 527,
+								},
+							},
+							["amount"] = 884,
+						},
+					},
+					["TimeDamage"] = 32.32,
+					["TimeDamaging"] = {
+						["Training Target"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 12.1,
+								},
+								["Heroic Strike"] = {
+									["count"] = 1.25,
+								},
+							},
+							["amount"] = 13.35,
+						},
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 13.52,
+								},
+								["Heroic Strike"] = {
+									["count"] = 5.45,
+								},
+							},
+							["amount"] = 18.97,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 95,
+									["min"] = 95,
+									["count"] = 2,
+									["amount"] = 190,
+								},
+								["Hit"] = {
+									["max"] = 53,
+									["min"] = 45,
+									["count"] = 9,
+									["amount"] = 452,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 642,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 109,
+									["min"] = 102,
+									["count"] = 3,
+									["amount"] = 319,
+								},
+								["Hit"] = {
+									["max"] = 54,
+									["min"] = 47,
+									["count"] = 5,
+									["amount"] = 255,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 574,
+						},
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Tushui Trainee"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 11,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 4445.441,
+			["LastActive"] = 4531.44,
+		},
+	},
+	["FightNum"] = 2,
+	["CombatTimes"] = {
+		{
+			4448.441, -- [1]
+			4458.441, -- [2]
+			"00:14:02", -- [3]
+			"00:14:11", -- [4]
+			"Training Target", -- [5]
+		}, -- [1]
+		{
+			4478.441, -- [1]
+			4496.44, -- [2]
+			"00:14:32", -- [3]
+			"00:14:49", -- [4]
+			"Tushui Trainee", -- [5]
+		}, -- [2]
+	},
+	["FoughtWho"] = {
+		"Tushui Trainee 00:14:32-00:14:49", -- [1]
+		"Training Target 00:14:02-00:14:11", -- [2]
+	},
+}

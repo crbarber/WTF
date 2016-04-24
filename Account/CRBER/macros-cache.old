@@ -1,0 +1,72 @@
+VER 3 0000000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [flyable] Grove Warden
+/cast Black War Ram
+END
+VER 3 0000000000000010 " " "INV_MISC_QUESTIONMARK"
+/target Degu
+END
+VER 3 000000000000000D " " "INV_MISC_QUESTIONMARK"
+/roar
+END
+VER 3 0000000000000012 " " "INV_MISC_QUESTIONMARK"
+/rw STOP
+END
+VER 3 0000000000000014 " " "INV_MISC_QUESTIONMARK"
+/e baaaaaaaa's
+END
+VER 3 0000000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Ascendance
+/use Fleshrender's Meathook
+/cast Elemental Mastery
+/use Draenic Intellect Potion
+/cast Ascendance
+END
+VER 3 0000000000000007 "Argent Daily /ki" "Ability_Druid_HealingInstincts"
+/kiss 
+/use Warts-B-Gone Lip Balm
+END
+VER 3 0000000000000003 "Buff" "Ability_Druid_TreeofLife"
+/castsequence reset=8 Demon Armor(Rank 4), Soul Link, Detect Invisibility, Unending Breath, Summon Felsteed(Summon),
+END
+VER 3 000000000000000C "CLCK" "Ability_Creature_Disease_03"
+/chicken
+END
+VER 3 0000000000000002 "DOT and beyond" "Spell_Shadow_UnstableAfllictions"
+/castsequence reset=8 Curse of Agony(Rank 5), Corruption(Rank 6), Immolate(Rank 6), Shadow Bolt(Rank 8), Shadow Bolt(Rank 8), Searing Pain(Rank 5), Shoot
+END
+VER 3 000000000000000E "flap" "INV_MISC_QUESTIONMARK"
+/flap
+END
+VER 3 0000000000000011 "Guild " "Ability_Hunter_BeastTraining"
+/2 [Crimson Templars] is looking to recruit dedicated raiders to start progression through SoO 10 man. Raid times are Thursday and Friday nights from 9-11 EST. Looking primarily for healers and dps but all are welcome. PST for more information
+END
+VER 3 0000000000000004 "hug" "INV_Misc_QuestionMark"
+/hug
+END
+VER 3 0000000000000008 "MOON!" "Spell_Arcane_TeleportIronForge"
+By The Light Of The Moon!
+END
+VER 3 0000000000000001 "PvE" "Ability_Rogue_FindWeakness"
+END
+VER 3 0000000000000006 "spear" "Ability_BackStab"
+spear on me
+END
+VER 3 000000000000000A "SWITCH" "Ability_BullRush"
+/rw MINION OVERCHARGED SWITCH DPS
+END
+VER 3 0000000000000005 "Targeter" "INV_Misc_QuestionMark"
+/target Wild Turkey
+/cast Hand of Reckoning
+END
+VER 3 000000000000000F "Targeter" "INV_PET_BATTLEPETTRAINING"
+/target Muerta
+/script SetRaidTargetIcon("target",8)
+/target Kar the Warbringer
+/script SetRaidTargetIcon("target",5)
+/target Muerta
+/script SetRaidTargetIcon("target",7)
+END
+VER 3 0000000000000009 "wdawd" "INV_Misc_QuestionMark"
+/w psyke BY THE LIGHT 
+END
